@@ -34,9 +34,9 @@ sidebar_position: 1
 
 1. ### [ईश (E-SA) E-Shloka Architect by KSU](https://sambhasha.ksu.ac.in/CompLing/chandas/)
     * Identifies Chanda for a given sloka
-    * When the 'Partial Match' switch on, provides all the possible partial matches against various Chandas
-    * While entering a shloka, provides info like number of letters (अक्षर) in each line, the laghu/guru sequence and the split letters (अक्षर) sequence
-    * If any Chanda is pre-selected, it will match the entered shloka against the selected Chanda and provides details like matching and non-matching letters
+    * When the 'Partial Match' switch is on, it provides all the possible partial matches against various Chandas
+    * While entering a shloka, provides info like the number of letters (अक्षर) in each line, the laghu/guru sequence and the split letters (अक्षर) sequence
+    * If any Chanda is pre-selected, it will match the entered shloka against the selected Chanda and provide details like matching and non-matching letters
 
 1. ### [Sanskrit numerical tool](https://sankhya.streamlit.app/)
 
