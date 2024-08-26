@@ -6,7 +6,7 @@ sidebar_position: 1
 
 1. ### [Telegram Bots](telegram-bots)
     
-    Sanskrit x Telegram bots are tools designed to assist Sanskrit learners and enthusiasts directly within the popular messaging app, Telegram. These bots offer a variety of features
+    Sanskrit Telegram bots are tools designed to assist Sanskrit learners and enthusiasts directly within the popular messaging app, Telegram. These bots offer a variety of features
 
 1. ### [Websites](websites)
 
