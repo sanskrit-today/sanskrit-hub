@@ -16,4 +16,8 @@ sidebar_position: 2
 
 1. ### [Central Sanskrit University Programmes](https://sanskrit.nic.in/msp/programmes.php)
     
-    The Central Sanskrit University offers a variety of short-term certification courses in Sanskrit, Pali, and Prakrit. These programs range from short-term courses to two-year degrees. 
+    The Central Sanskrit University offers a variety of short-term certification courses in Sanskrit, Pali, and Prakrit. These programs range from short-term courses to two-year degrees.
+
+1. ### [Saral Sanskrit Exams by Bharatiya Vidya Bhavan](https://bhavans.info/head-office/institution-details.php?name=Mumbai%20Head%20Office&dept_id=204)
+
+    Bharatiya Vidya Bhavan conducts Saral Sanskrit Examinations twice a year, in February and September. These examinations are conducted for five graded courses: Balabodha, Prarambha, Pravesha, Parichaya and Kovida. These examinations are conducted at more than 200 examination centres in India and abroad. So far 21, 85, 538 students have taken advantage of these examinations (till 2021).
