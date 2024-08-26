@@ -6,313 +6,620 @@ sidebar_position: 11
 # List of Sanskrit Blogs
 
 1. ### संस्कृतम्
-    https://gadimanoj14.wordpress.com/
+
+    Web: https://gadimanoj14.wordpress.com/
+
+    Feed: https://gadimanoj14.wordpress.com/feed
     
 1. ### The Vāk
-    https://the-vak.github.io/
+
+    Web: https://the-vak.github.io/
+   
+    Feed: https://the-vak.github.io/feed
     
 1. ### Learn Sanskrit
-    https://learnsanskrit.wordpress.com/
+
+    Web: https://learnsanskrit.wordpress.com/
+
+    Feed: https://learnsanskrit.wordpress.com/feed
     
 1. ### Balramshukla's Blog
-    https://balramshukla.wordpress.com/
+    
+    Web: https://balramshukla.wordpress.com/
+    
+    Feed: https://balramshukla.wordpress.com/feed
     
 1. ### ललितालालितः
-    https://www.lalitaalaalitah.com/
+
+    Web: https://www.lalitaalaalitah.com/
+    
+    Feed: http://www.lalitaalaalitah.com/feed
     
 1. ### मामका विचाराः
-    https://pathniya.blogspot.com/
+    
+    Web: https://pathniya.blogspot.com/
+    
+    Feed: https://pathniya.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### संस्कृते लिखामः
-    http://samskrute.blogspot.com/
+    
+    Web: http://samskrute.blogspot.com/
+    
+    Feed: http://samskrute.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### Sanskrit Wisdom
-    https://sanskritwisdom.wordpress.com/
+    
+    Web: https://sanskritwisdom.wordpress.com/
+    
+    Feed: https://sanskritwisdom.wordpress.com/feed
     
 1. ### संस्कृत-व्याकरणस्य अध्ययनम् ।
-    https://grammarofsanskrit.wordpress.com/
+    
+    Web: https://grammarofsanskrit.wordpress.com/
+    
+    Feed: https://grammarofsanskrit.wordpress.com/feed
     
 1. ### जयतु जयतु संस्कृतम्
-    http://kalidasa.blogspot.com/
+    
+    Web: http://kalidasa.blogspot.com/
+    
+    Feed: http://kalidasa.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### निमित्तमात्रम् च निमिषमात्रम्
-    http://nimittam.blogspot.com/
+    
+    Web: http://nimittam.blogspot.com/
+    
+    Feed: http://nimittam.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### ---!!! गीतभारती !!!---
-    http://yaajushi.blogspot.com/
+    
+    Web: http://yaajushi.blogspot.com/
+    
+    Feed: http://yaajushi.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### जालिकानां जालशिष्टाचारः
-    https://yaajushi.wordpress.com/
+    
+    Web: https://yaajushi.wordpress.com/
+    
+    Feed: https://yaajushi.wordpress.com/feed
     
 1. ### कोऽहम् – WHO AM I ?
-    https://koham.wordpress.com/
+    
+    Web: https://koham.wordpress.com/
+    
+    Feed: https://koham.wordpress.com/feed
     
 1. ### संस्कृत नाम दैवी वाक् – Sanskrit for all- Promote sanskrit!
-    https://sanskritforall.wordpress.com/
+    
+    Web: https://sanskritforall.wordpress.com/
+    
+    Feed: https://sanskritforall.wordpress.com/feed
     
 1. ### AVG-Sanskrit
-    https://avg-sanskrit.org/
+    
+    Web: https://avg-sanskrit.org/
+    
+    Feed: https://avg-sanskrit.org/feed
     
 1. ### surendra.shastram
-    http://surendrashastram.blogspot.com/
+    
+    Web: http://surendrashastram.blogspot.com/
+    
+    Feed: http://surendrashastram.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### विश्ववाणी
-    http://vishvavani.blogspot.com/
+    
+    Web: http://vishvavani.blogspot.com/
+    
+    Feed: http://vishvavani.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### संस्कृतपत्रिका
-    http://samskritapatrika.blogspot.com/
+    
+    Web: http://samskritapatrika.blogspot.com/
+    
+    Feed: http://samskritapatrika.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### संस्कृति संस्कृत
-    http://girirajs.blogspot.com/
+    
+    Web: http://girirajs.blogspot.com/
+    
+    Feed: http://girirajs.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### का त्वं बाले ?
-    http://kaatvambale.blogspot.com/
+    
+    Web: http://kaatvambale.blogspot.com/
+    
+    Feed: http://kaatvambale.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### संस्कृतमधुरम्
-    http://samskruthamadhuram.blogspot.com/
+    
+    Web: http://samskruthamadhuram.blogspot.com/
+    
+    Feed: http://samskruthamadhuram.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### Iyer Samskritam
-    http://iyersamskritam.blogspot.com/
+    
+    Web: http://iyersamskritam.blogspot.com/
+    
+    Feed: http://iyersamskritam.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### ॥अद्यतनचिन्तनम्॥
-    http://adyatanachintanam.blogspot.com/
+    
+    Web: http://adyatanachintanam.blogspot.com/
+    
+    Feed: http://adyatanachintanam.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### ॥स्वान्त:सुखायात्मगाथा आनुदैनिकी॥
-    http://anudinam.blogspot.com/
+    
+    Web: http://anudinam.blogspot.com/
+    
+    Feed: http://anudinam.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### ॥सर्वसज्जनहितम्॥
-    http://satyayugam.blogspot.com/
+    
+    Web: http://satyayugam.blogspot.com/
+    
+    Feed: http://satyayugam.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### संस्कृतम्
-    https://tirhuta.blogspot.com/
+    
+    Web: https://tirhuta.blogspot.com/
+    
+    Feed: https://tirhuta.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### संस्कृतम्
-    https://samskrit.wordpress.com/
+    
+    Web: https://samskrit.wordpress.com/
+    
+    Feed: https://samskrit.wordpress.com/feed
     
 1. ### संस्कृत गद्य समालोचना
-    http://sanskritgdyasmalochana.blogspot.com/
+    
+    Web: http://sanskritgdyasmalochana.blogspot.com/
+    
+    Feed: http://sanskritgdyasmalochana.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### Ancient_Sanskrit Epics
-    http://ancientepics.blogspot.com/
+    
+    Web: http://ancientepics.blogspot.com/
+    
+    Feed: http://ancientepics.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### vadatu sanskritam
-    http://vadatusanskritam.blogspot.com/
+    
+    Web: http://vadatusanskritam.blogspot.com/
+    
+    Feed: http://vadatusanskritam.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### दैवज्ञानम्
-    http://daivajnanam.blogspot.com/
+    
+    Web: http://daivajnanam.blogspot.com/
+    
+    Feed: http://daivajnanam.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### दासाश्रमः
-    http://dasashrama.blogspot.com/
+    
+    Web: http://dasashrama.blogspot.com/
+    
+    Feed: http://dasashrama.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### गीर्वाणवाग्झरी
-    http://girvanavagjhari.blogspot.com/
+    
+    Web: http://girvanavagjhari.blogspot.com/
+    
+    Feed: http://girvanavagjhari.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### Practical Sanskrit
-    https://blog.practicalsanskrit.com/
+    
+    Web: https://blog.practicalsanskrit.com/
+    
+    Feed: https://blog.practicalsanskrit.com/feeds/posts/default?alt=rss
     
 1. ### संस्कृतम् – A blog in Sanskrit
-    https://vaak.wordpress.com/
+    
+    Web: https://vaak.wordpress.com/
+    
+    Feed: https://vaak.wordpress.com/feed
     
 1. ### संस्कृत सुभाषिते [अर्थासकट]
-    http://subhashite.blogspot.com/
+    
+    Web: http://subhashite.blogspot.com/
+    
+    Feed: http://subhashite.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### संस्कृतानुभव
-    http://sanskritsubhashite.blogspot.com/
+    
+    Web: http://sanskritsubhashite.blogspot.com/
+    
+    Feed: http://sanskritsubhashite.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### SAMSKRUTAM (Also called Sanskrit)
-    https://navankura.wordpress.com/
+    
+    Web: https://navankura.wordpress.com/
+    
+    Feed: https://navankura.wordpress.com/feed
     
 1. ### Chanakya-Learning
-    http://chankya-learnings.blogspot.com/
+    
+    Web: http://chankya-learnings.blogspot.com/
+    
+    Feed: http://chankya-learnings.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### सुभाषितानि (Subhashitani)
-    https://subhashitani.wordpress.com/
+    
+    Web: https://subhashitani.wordpress.com/
+    
+    Feed: https://subhashitani.wordpress.com/feed
     
 1. ### संस्कृतम्
-    https://samskrtam.wordpress.com/
+    
+    Web: https://samskrtam.wordpress.com/
+    
+    Feed: https://samskrtam.wordpress.com/feed
     
 1. ### संस्कृतम्
-    https://vasansanskrit.blogspot.com/
+    
+    Web: https://vasansanskrit.blogspot.com/
+    
+    Feed: https://vasansanskrit.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### ॐ संस्कृतम्
-    https://www.sanskritm.in/
+
+    Web: https://www.sanskritm.in/
     
 1. ### संस्कृतम्
-    https://sanskritmani.blogspot.com/
+    
+    Web: https://sanskritmani.blogspot.com/
+    
+    Feed: https://sanskritmani.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### संस्कृत-प्रभा (SANSKRIT PRABHA - Shine of Sanskrit)
-    https://sanskritprabha.blogspot.com/
+    
+    Web: https://sanskritprabha.blogspot.com/
+    
+    Feed: https://sanskritprabha.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### Sanskrit - संस्कृतम्
-    https://learning-sanskrit.blogspot.com/
+    
+    Web: https://learning-sanskrit.blogspot.com/
+    
+    Feed: https://learning-sanskrit.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### Sanskrit-Tutorial
-    https://sanskrit-tutorial.blogspot.com/
+    
+    Web: https://sanskrit-tutorial.blogspot.com/
+    
+    Feed: https://sanskrit-tutorial.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### सरलभाषा संस्कृतम्
-    https://sanskritvyakaran1.blogspot.com/
+    
+    Web: https://sanskritvyakaran1.blogspot.com/
+    
+    Feed: https://sanskritvyakaran1.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### पठतु संस्कृतम्।।
-    https://ashokverma1987.blogspot.com/
+    
+    Web: https://ashokverma1987.blogspot.com/
+    
+    Feed: https://ashokverma1987.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### संस्कृतरसानन्द गुरुकुलम्
-    https://samskritrasanandgurukulam.blogspot.com/
+    
+    Web: https://samskritrasanandgurukulam.blogspot.com/
+    
+    Feed: https://samskritrasanandgurukulam.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### Spoken Sanskrit
-    https://sanskrit-speaking.blogspot.com/
+    
+    Web: https://sanskrit-speaking.blogspot.com/
+    
+    Feed: https://sanskrit-speaking.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### जयतु संस्कृतम् (Jayatu Samskrutam)
-    https://jyatusamskrutam.blogspot.com/
+    
+    Web: https://jyatusamskrutam.blogspot.com/
+    
+    Feed: https://jyatusamskrutam.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### सर्वाङ्गीण विकास
-    https://sanskritpersonaldevelopment.blogspot.com/
+    
+    Web: https://sanskritpersonaldevelopment.blogspot.com/
+    
+    Feed: https://sanskritpersonaldevelopment.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### संस्कृतम्
-    https://anusanskrit1.blogspot.com/
+    
+    Web: https://anusanskrit1.blogspot.com/
+    
+    Feed: https://anusanskrit1.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### सर्वमयं संस्कृतम्
-    https://sarvaskt.blogspot.com/
+    
+    Web: https://sarvaskt.blogspot.com/
+    
+    Feed: https://sarvaskt.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### Sanskrit Made Simple
-    https://sanskritmadesimple.blogspot.com/
+    
+    Web: https://sanskritmadesimple.blogspot.com/
+    
+    Feed: https://sanskritmadesimple.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### Samskritam
-    https://sulabhasamskritam.blogspot.com/
+    
+    Web: https://sulabhasamskritam.blogspot.com/
+    
+    Feed: https://sulabhasamskritam.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### संस्कृतम्
-    https://sanskritkrahasya.blogspot.com/
+    
+    Web: https://sanskritkrahasya.blogspot.com/
+    
+    Feed: https://sanskritkrahasya.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### purnakodela
-    http://purnakodela.blogspot.com/
+    
+    Web: http://purnakodela.blogspot.com/
+    
+    Feed: http://purnakodela.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### देवभाषा संस्कृतम्
-    https://devabhashasanskritam.blogspot.com/
+    
+    Web: https://devabhashasanskritam.blogspot.com/
+    
+    Feed: https://devabhashasanskritam.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### जयतु संस्कृतम् जयतु जयतु भारतम्
-    https://pandey2512.blogspot.com/
+    
+    Web: https://pandey2512.blogspot.com/
+    
+    Feed: https://pandey2512.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### Sanskrit Text
-    https://sanskritext.blogspot.com/
+    
+    Web: https://sanskritext.blogspot.com/
+    
+    Feed: https://sanskritext.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### Samskrita Bhasha Bodha (संस्कृतभाषाबोधः)
-    https://bhashabodha.blogspot.com/
+    
+    Web: https://bhashabodha.blogspot.com/
+    
+    Feed: https://bhashabodha.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### Sanskrittutorials
-    https://esanskritshala.blogspot.com/
+    
+    Web: https://esanskritshala.blogspot.com/
+    
+    Feed: https://esanskritshala.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### Sanskrit Blog of Kendriya Vidyalaya Subathu
-    https://kvsubathusanskrit.blogspot.com/
+    
+    Web: https://kvsubathusanskrit.blogspot.com/
+    
+    Feed: https://kvsubathusanskrit.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### विद्यां ददाति विनयं
-    https://vanisriv.blogspot.com/
+    
+    Web: https://vanisriv.blogspot.com/
+    
+    Feed: https://vanisriv.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### गीतान्वेषणम्
-    https://study1geetaa2sanskrit.wordpress.com/
+    
+    Web: https://study1geetaa2sanskrit.wordpress.com/
+    
+    Feed: https://study1geetaa2sanskrit.wordpress.com/feed
     
 1. ### गीतायाः धात्वभ्यासः
-    https://dhaatusingeetaa.wordpress.com/
+    
+    Web: https://dhaatusingeetaa.wordpress.com/
+    
+    Feed: https://dhaatusingeetaa.wordpress.com/feed
     
 1. ### Sanskritbhashi संस्कृतभाषी
-    https://sanskritbhasi.blogspot.com/
+    
+    Web: https://sanskritbhasi.blogspot.com/
+    
+    Feed: https://sanskritbhasi.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### Sanskrit Reading Room
-    https://sanskritreadingroom.wordpress.com/
+    
+    Web: https://sanskritreadingroom.wordpress.com/
+    
+    Feed: https://sanskritreadingroom.wordpress.com/feed
     
 1. ### apūrvaracanā
-    https://apurvaracana.tumblr.com/
+    
+    Web: https://apurvaracana.tumblr.com/
+    
+    Feed: https://apurvaracana.tumblr.com/rss
     
 1. ### संस्कृत-हिताय
-    https://samskruthitaay.wordpress.com/
+    
+    Web: https://samskruthitaay.wordpress.com/
+    
+    Feed: https://samskruthitaay.wordpress.com/feed
     
 1. ### Sanskrit Subhashitas
-    http://mcjoshi21.blogspot.com/
+    
+    Web: http://mcjoshi21.blogspot.com/
+    
+    Feed: http://mcjoshi21.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### SAMSKRUTAM (Also called Sanskrit)
-    https://navankura.wordpress.com/
+    
+    Web: https://navankura.wordpress.com/
+    
+    Feed: https://navankura.wordpress.com/feed
     
 1. ### Sanskrit Literature
-    https://venetiaansell.wordpress.com/
+    
+    Web: https://venetiaansell.wordpress.com/
+    
+    Feed: https://venetiaansell.wordpress.com/feed
     
 1. ### Samskruta Mouktikaani
-    https://sanskritpearls.blogspot.com/
+    
+    Web: https://sanskritpearls.blogspot.com/
+    
+    Feed: https://sanskritpearls.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### Sanskrit School
-    https://www.sanskritschool.in/
+    
+    Web: https://www.sanskritschool.in/
+    
+    Feed: https://www.sanskritschool.in/feed/
     
 1. ### Shreepad Seva Mandal Blog
-    https://blog.ssmandal.org/
+    
+    Web: https://blog.ssmandal.org/
+    
+    Feed: https://blog.ssmandal.org/rss
     
 1. ### SAMSKRIT PEARLS
-    https://samskritpearls.blogspot.com/
+    
+    Web: https://samskritpearls.blogspot.com/
+    
+    Feed: https://samskritpearls.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### Sree Guru Krupa
-    https://sreegurukrupa.blogspot.com/
+    
+    Web: https://sreegurukrupa.blogspot.com/
+    
+    Feed: https://sreegurukrupa.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### Sanskrit Gyan
-    https://samskritgyan.blogspot.com/
+    
+    Web: https://samskritgyan.blogspot.com/
+    
+    Feed: https://samskritgyan.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### Learn Sanskrit Through Ramayanam
-    https://learn-sanskrit-through-ramayanam.blogspot.com/
+    
+    Web: https://learn-sanskrit-through-ramayanam.blogspot.com/
+    
+    Feed: https://learn-sanskrit-through-ramayanam.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### अन्वयदर्शिका
-    https://anvayadarshika.blogspot.com/
+    
+    Web: https://anvayadarshika.blogspot.com/
+    
+    Feed: https://anvayadarshika.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### सावित्र्युपाख्यानम् (महाभारते सावित्र्याः कथा)
-    http://savitri-upakhyana.blogspot.com/
+    
+    Web: http://savitri-upakhyana.blogspot.com/
+    
+    Feed: http://savitri-upakhyana.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### चित्रव्याख्या
-    http://chitravyakhya.blogspot.com/
+    
+    Web: http://chitravyakhya.blogspot.com/
+    
+    Feed: http://chitravyakhya.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### हास्यसञ्जीवनी
-    http://hasya-sanjivani.blogspot.com/
+    
+    Web: http://hasya-sanjivani.blogspot.com/
+    
+    Feed: http://hasya-sanjivani.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### सुभाषित-विज्ञानम्
-    http://subhashita-vijnanam.blogspot.com/
+    
+    Web: http://subhashita-vijnanam.blogspot.com/
+    
+    Feed: http://subhashita-vijnanam.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### लौकिकन्यायाः
-    http://lokanyaya.blogspot.com/
+    
+    Web: http://lokanyaya.blogspot.com/
+    
+    Feed: http://lokanyaya.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### व्यावहारिकसंस्कृतम्
-    http://vyavaharika-samskrtam.blogspot.com/
+    
+    Web: http://vyavaharika-samskrtam.blogspot.com/
+    
+    Feed: http://vyavaharika-samskrtam.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### हितोपदेश-सुभाषित-श्लोकाः
-    http://hitopadesha-subhashita.blogspot.com/
+    
+    Web: http://hitopadesha-subhashita.blogspot.com/
+    
+    Feed: http://hitopadesha-subhashita.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### सुभाषितदीपशिखा సుభాషితదీపశిఖా
-    http://subhashita-deepashikha.blogspot.com/
+    
+    Web: http://subhashita-deepashikha.blogspot.com/
+    
+    Feed: http://subhashita-deepashikha.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### लोकोक्त्यालोकः
-    http://samskrta-lokokti.blogspot.com/
+    
+    Web: http://samskrta-lokokti.blogspot.com/
+    
+    Feed: http://samskrta-lokokti.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### अभिनव-बालनीतिकथा-सप्ततिः
-    http://abhinavabalanitikatha.blogspot.com/
+    
+    Web: http://abhinavabalanitikatha.blogspot.com/
+    
+    Feed: http://abhinavabalanitikatha.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### संस्कृतिसमस्याः, समाधानानि
-    http://samskrti-samasya.blogspot.com/
+    
+    Web: http://samskrti-samasya.blogspot.com/
+    
+    Feed: http://samskrti-samasya.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### स्वर्वाणीविलासः
-    http://svarvani-vilasah.blogspot.com/
+    
+    Web: http://svarvani-vilasah.blogspot.com/
+    
+    Feed: http://svarvani-vilasah.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### संस्कृतस्तोत्राणि సంస్కృతస్తోత్రాణి
-    http://samskrta-stotrani.blogspot.com/
+    
+    Web: http://samskrta-stotrani.blogspot.com/
+    
+    Feed: http://samskrta-stotrani.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### संस्कृतश्रीःप्रकाशिका
-    http://samskrta-shri-prakashika.blogspot.com/
+    
+    Web: http://samskrta-shri-prakashika.blogspot.com/
+    
+    Feed: http://samskrta-shri-prakashika.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### Vidyasagar - in quest for knowledge
-    https://pranavasagar.blogspot.com/
+    
+    Web: https://pranavasagar.blogspot.com/
+    
+    Feed: https://pranavasagar.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### Amod Sanskrit
-    https://sampurnsanskritam.blogspot.com/
+    
+    Web: https://sampurnsanskritam.blogspot.com/
+    
+    Feed: https://sampurnsanskritam.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### Sanskrit
-    https://uttamasanskrit.blogspot.com/
+    
+    Web: https://uttamasanskrit.blogspot.com/
+    
+    Feed: https://uttamasanskrit.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### Learn Sanskrit And Read The Scriptures For Yourself!
-    https://all-about-sanskrit.blogspot.com/
+    
+    Web: https://all-about-sanskrit.blogspot.com/
+    
+    Feed: https://all-about-sanskrit.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### सूक्तिसुधा-१
-    https://sooktisudha1.blogspot.com/
+    
+    Web: https://sooktisudha1.blogspot.com/
+    
+    Feed: https://sooktisudha1.blogspot.com/feeds/posts/default?alt=rss
 
 1. ### VIJAY BHATE
     
