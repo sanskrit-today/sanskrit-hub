@@ -232,13 +232,7 @@ sidebar_position: 11
     Web: http://sanskritsubhashite.blogspot.com/
     
     Feed: http://sanskritsubhashite.blogspot.com/feeds/posts/default?alt=rss
-    
-1. ### SAMSKRUTAM (Also called Sanskrit)
-    
-    Web: https://navankura.wordpress.com/
-    
-    Feed: https://navankura.wordpress.com/feed
-    
+        
 1. ### Chanakya-Learning
     
     Web: http://chankya-learnings.blogspot.com/
@@ -262,10 +256,6 @@ sidebar_position: 11
     Web: https://vasansanskrit.blogspot.com/
     
     Feed: https://vasansanskrit.blogspot.com/feeds/posts/default?alt=rss
-    
-1. ### ॐ संस्कृतम्
-
-    Web: https://www.sanskritm.in/
     
 1. ### संस्कृतम्
     
@@ -405,24 +395,6 @@ sidebar_position: 11
     
     Feed: https://vanisriv.blogspot.com/feeds/posts/default?alt=rss
     
-1. ### गीतान्वेषणम्
-    
-    Web: https://study1geetaa2sanskrit.wordpress.com/
-    
-    Feed: https://study1geetaa2sanskrit.wordpress.com/feed
-    
-1. ### गीतायाः धात्वभ्यासः
-    
-    Web: https://dhaatusingeetaa.wordpress.com/
-    
-    Feed: https://dhaatusingeetaa.wordpress.com/feed
-    
-1. ### Sanskritbhashi संस्कृतभाषी
-    
-    Web: https://sanskritbhasi.blogspot.com/
-    
-    Feed: https://sanskritbhasi.blogspot.com/feeds/posts/default?alt=rss
-    
 1. ### Sanskrit Reading Room
     
     Web: https://sanskritreadingroom.wordpress.com/
@@ -441,12 +413,6 @@ sidebar_position: 11
     
     Feed: https://samskruthitaay.wordpress.com/feed
     
-1. ### Sanskrit Subhashitas
-    
-    Web: http://mcjoshi21.blogspot.com/
-    
-    Feed: http://mcjoshi21.blogspot.com/feeds/posts/default?alt=rss
-    
 1. ### SAMSKRUTAM (Also called Sanskrit)
     
     Web: https://navankura.wordpress.com/
@@ -458,12 +424,6 @@ sidebar_position: 11
     Web: https://venetiaansell.wordpress.com/
     
     Feed: https://venetiaansell.wordpress.com/feed
-    
-1. ### Samskruta Mouktikaani
-    
-    Web: https://sanskritpearls.blogspot.com/
-    
-    Feed: https://sanskritpearls.blogspot.com/feeds/posts/default?alt=rss
     
 1. ### Sanskrit School
     
@@ -620,12 +580,6 @@ sidebar_position: 11
     Web: https://sooktisudha1.blogspot.com/
     
     Feed: https://sooktisudha1.blogspot.com/feeds/posts/default?alt=rss
-
-1. ### VIJAY BHATE
-    
-    Web: https://mysanskritsubhashit.wordpress.com/
-    
-    Feed: https://mysanskritsubhashit.wordpress.com/feed/
 
 1. ### सूक्तिसुधा-२
     
