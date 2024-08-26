@@ -22,3 +22,5 @@ sidebar_position: 3
 1. ### [Amara Kosha Word list](https://drive.google.com/file/d/1WEVsq2Rcgrii7UpFmBiFmEQQQxa5Sh8t/view?usp=sharing)
 
 1. ### [SanskritDocuments.org](https://sanskritdocuments.org/amarakosha/)
+
+1. ### [Amara Kosha Word List by KSU](https://sambhasha.ksu.ac.in/CompLing/cgi-bin/mahakosha/k_synset_aggregate.py?o=0&ksn=ak)
