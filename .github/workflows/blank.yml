@@ -23,6 +23,6 @@ jobs:
       - name: Trigger Deployment
         uses: fjogeleit/http-request-action@v1
         with:
-          url: 'https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/bcd1c37c-4d77-48a4-b6ef-bfb208489b66'
+          url: ${{ secrets.DEPLOY_TRIGGER_URL }}
           method: 'POST'
 
