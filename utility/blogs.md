@@ -29,12 +29,6 @@ sidebar_position: 11
 1. ### Sanskrit Wisdom
     https://sanskritwisdom.wordpress.com/
     
-1. ### संस्कृताध्ययनम् ।
-    https://slabhyankar.wordpress.com/
-    
-1. ### सरलं संस्कृतम्
-    https://simplesanskrit.wordpress.com/
-    
 1. ### संस्कृत-व्याकरणस्य अध्ययनम् ।
     https://grammarofsanskrit.wordpress.com/
     
@@ -232,9 +226,6 @@ sidebar_position: 11
     
 1. ### Sanskrit Subhashitas
     http://mcjoshi21.blogspot.com/
-    
-1. ### Learn Sanskrit
-    https://learnsanskrit.wordpress.com/
     
 1. ### SAMSKRUTAM (Also called Sanskrit)
     https://navankura.wordpress.com/
