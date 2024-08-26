@@ -324,139 +324,206 @@ sidebar_position: 11
     https://sooktisudha1.blogspot.com/
 
 1. ### VIJAY BHATE
+    
     Web: https://mysanskritsubhashit.wordpress.com/
+    
     Feed: https://mysanskritsubhashit.wordpress.com/feed/
 
 1. ### सूक्तिसुधा-२
+    
     Web: https://sooktisudha2.blogspot.com/
+    
     Feed: https://sooktisudha2.blogspot.com/feeds/posts/default?alt=rss
 
 1. ### सूक्तिसुधा-३
+    
     Web: https://sooktisudha3.blogspot.com/
+    
     Feed: https://sooktisudha3.blogspot.com/feeds/posts/default?alt=rss
 
 1. ### संस्कृताध्ययनम् ।
+    
     Web: https://slabhyankar.wordpress.com/
+    
     Feed: https://slabhyankar.wordpress.com/feed/
 
 1. ### संस्कृतभवनम्
+    
     Web: https://sanskritabhavanam.wordpress.com/
+    
     Feed: https://sanskritabhavanam.wordpress.com/feed/
 
 1. ### गीतान्वेषणम्
+    
     Web: https://study1geetaa2sanskrit.wordpress.com/
+    
     Feed: https://study1geetaa2sanskrit.wordpress.com/feed/
 
 1. ### गीतायाः धात्वभ्यासः
+    
     Web: https://dhaatusingeetaa.wordpress.com/
+    
     Feed: https://dhaatusingeetaa.wordpress.com/feed/
 
 1. ### संस्कृत-प्रसृति:
+    
     Web: https://sanskritaprasruti.wordpress.com/
+    
     Feed: https://sanskritaprasruti.wordpress.com/feed/
 
 1. ### उपनिषदध्ययनम्
+    
     Web: https://upanishat.wordpress.com/
+    
     Feed: https://upanishat.wordpress.com/feed/
 
 1. ### संस्कृतचर्चा
+    
     Web: https://samskrutacharchaa.wordpress.com/
+    
     Feed: http://samskrutacharchaa.wordpress.com/feed
 
 1. ### ज्योतिर्विज्ञानम्
+    
     Web: https://jyotirvigyaanam.wordpress.com/
+    
     Feed: https://jyotirvigyaanam.wordpress.com/feed/
 
 1. ### गणिताभ्यासः
+    
     Web: https://ganitabhyas.wordpress.com/
+    
     Feed: https://ganitabhyas.wordpress.com/feed
 
 1. ### ॐ  संस्कृतम्
+    
     Web: https://www.sanskritm.in/
+    
     Feed: https://www.sanskritm.in/feeds/posts/default?alt=rss
 
 1. ### VIJAY BHATE
+    
     Web: https://mysanskritsubhashit.wordpress.com/
+    
     Feed: https://mysanskritsubhashit.wordpress.com/feed
 
-1. ### सुभाषितानि
-    Web: Subhashitani
+1. ### सुभाषितानि Subhashitani
+    
     Web: https://subhashitani-en.blogspot.com/
+    
     Feed: https://subhashitani-en.blogspot.com/feeds/posts/default?alt=rss
 
 1. ### संस्‍कृतजगत्
+    
     Web: http://sanskritjagat.blogspot.com/
+    
     Feed: https://sanskritjagat.blogspot.com/feeds/posts/default?alt=rss
 
 1. ### संस्कृत-हिताय
+    
     Web: https://sanskrithitaay.wordpress.com/
+    
     Feed: https://sanskrithitaay.wordpress.com/rss
 
 1. ### Sanskritbhashi संस्कृतभाषी
+    
     Web: https://sanskritbhasi.blogspot.com/
+    
     Feed: https://sanskritbhasi.blogspot.com/feeds/posts/default?alt=rss
 
 1. ### संस्कृत की दुनिया : कौशलम् न्यास
+    
     Web: https://sanskrit-ki-duniya.blogspot.com/
+    
     Feed: https://sanskrit-ki-duniya.blogspot.com/feeds/posts/default?alt=rss
 
 1. ### सरलं संस्कृतम्
+    
     Web: https://simplesanskrit.wordpress.com/
+    
     Feed: https://simplesanskrit.wordpress.com/feed/
 
 1. ### Subhashithani | Mukundapriya
+    
     Web: https://mukundapriya.blogspot.com/
+    
     Feed: https://mukundapriya.blogspot.com/feeds/posts/default?alt=rss
 
 1. ### Kalpana
+    
     Web: https://kalpanamuzumdar.wordpress.com/
+    
     Feed: https://kalpanamuzumdar.wordpress.com/feed/
 
 1. ### kanfusion
+    
     Web: https://kanfusion.blogspot.com/
+    
     Feed: https://kanfusion.blogspot.com/feeds/posts/default?alt=rss
 
 1. ### Sanskrit – A Billion Stories
+    
     Web: https://abillionstories.wordpress.com/
+    
     Feed: https://abillionstories.wordpress.com/category/sanskrit/feed/
 
 1. ### Sanskrit Subhashitas
+    
     Web: http://mcjoshi21.blogspot.com/
+    
     Feed: http://mcjoshi21.blogspot.com/feeds/posts/default?alt=rss
 
 1. ### sanskrit
+    
     Web: http://rajsia1.blogspot.com/
+    
     Feed: http://rajsia1.blogspot.com/feeds/posts/default?alt=rss
 
 1. ### Anuśīlana.in
+    
     Web: https://anusilana.in/
+    
     Feed: https://anusilana.in/feed/
 
 1. ### Project Ulooka
+    
     Web: https://www.projectulooka.com/
+    
     Feed: https://www.projectulooka.com/blog-feed.xml
 
 1. ### कोटी कथा सङ्ग्रह्
+    
     Web: https://sanskritreads.abillionstories.com/
+    
     Feed: https://sanskritreads.abillionstories.com/feeds/posts/default?alt=rss
 
-1. ### युवधिषणा
-    Web: Yuvadhishana
+1. ### युवधिषणा Yuvadhishana
+    
     Web: https://thiyaga1989.blogspot.com/
+    
     Feed: https://thiyaga1989.blogspot.com/feeds/posts/default?alt=rss
 
 1. ### शिशुपालवधम्
+    
     Web: https://maghakavyam.wordpress.com/
+    
     Feed: https://maghakavyam.wordpress.com/feed/
 
 1. ### Vidyaadaanam
+    
     Web: https://nivedita2015.wordpress.com/
+    
     Feed: https://nivedita2015.wordpress.com/feed/
 
 1. ### Yuvadhisana
+    
     Web: http://vinothiyaga.blogspot.com/
+    
     Feed: http://vinothiyaga.blogspot.com/feeds/posts/default?alt=rss
 
 1. ### Medha Michikaの世界
+    
     Web: http://medhamichika.blogspot.com/
+    
     Feed: http://medhamichika.blogspot.com/feeds/posts/default?alt=rss
+
