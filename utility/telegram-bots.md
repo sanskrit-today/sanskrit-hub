@@ -10,7 +10,7 @@ sidebar_position: 1
 1. ### [@KoshaSanskritTodayBot](https://kosha.sanskrit.today/tools/telegram-bot)
     
     * A simple bot to search Kosha.Sanskrit.Today from your Telegram.
-    * <IconFA icon="fa fa-youtube-play" /> [Intro Video](https://youtube.com/shorts/tqqpjblp60A?feature=shared)
+    * [<IconFA icon="fab fa-youtube" /> Intro Video](https://youtube.com/shorts/tqqpjblp60A?feature=shared)
 
 1. ### [@sanskritkoshbot](https://t.me/sanskritkoshbot)
 
