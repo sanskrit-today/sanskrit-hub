@@ -1,5 +1,5 @@
 ---
-sidebar_label: Magazines
+sidebar_label: Televisions, Radio
 sidebar_position: 1
 ---
 
