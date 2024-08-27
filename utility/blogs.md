@@ -9,517 +9,517 @@ import ClickToCopy from '@site/src/components/ClickToCopy';
 
 1. ### संस्कृतम्
 
-    https://gadimanoj14.wordpress.com/ [clickToCopy text="https://gadimanoj14.wordpress.com/feed">Copy Feed Link</ClickToCopy>]
+    https://gadimanoj14.wordpress.com/ [<ClickToCopy text="https://gadimanoj14.wordpress.com/feed">Click to copy feed link.</ClickToCopy>]
     
 1. ### The Vāk
 
-    https://the-vak.github.io/ [ClickToCopy text="https://the-vak.github.io/feed">Copy Feed Link</ClickToCopy>]
+    https://the-vak.github.io/ [<ClickToCopy text="https://the-vak.github.io/feed">Click to copy feed link.</ClickToCopy>]
     
 1. ### Learn Sanskrit
 
-    https://learnsanskrit.wordpress.com/ [clickToCopy text="https://learnsanskrit.wordpress.com/feed">Copy Feed Link</ClickToCopy>]
+    https://learnsanskrit.wordpress.com/ [<ClickToCopy text="https://learnsanskrit.wordpress.com/feed">Click to copy feed link.</ClickToCopy>]
     
 1. ### Balramshukla's Blog
     
-    https://balramshukla.wordpress.com/ [<ClickToCopy text="https://balramshukla.wordpress.com/feed">Copy Feed Link</ClickToCopy>]
+    https://balramshukla.wordpress.com/ [<ClickToCopy text="https://balramshukla.wordpress.com/feed">Click to copy feed link.</ClickToCopy>]
     
 1. ### ललितालालितः
 
-    https://www.lalitaalaalitah.com/ [<ClickToCopy text="http://www.lalitaalaalitah.com/feed">Copy Feed Link</ClickToCopy>]
+    https://www.lalitaalaalitah.com/ [<ClickToCopy text="http://www.lalitaalaalitah.com/feed">Click to copy feed link.</ClickToCopy>]
     
 1. ### मामका विचाराः
     
-    https://pathniya.blogspot.com/ [<ClickToCopy text="https://pathniya.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://pathniya.blogspot.com/ [<ClickToCopy text="https://pathniya.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### संस्कृते लिखामः
     
-    http://samskrute.blogspot.com/ [<ClickToCopy text="http://samskrute.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://samskrute.blogspot.com/ [<ClickToCopy text="http://samskrute.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### Sanskrit Wisdom
     
-    https://sanskritwisdom.wordpress.com/ [<ClickToCopy text="https://sanskritwisdom.wordpress.com/feed">Copy Feed Link</ClickToCopy>]
+    https://sanskritwisdom.wordpress.com/ [<ClickToCopy text="https://sanskritwisdom.wordpress.com/feed">Click to copy feed link.</ClickToCopy>]
     
 1. ### संस्कृत-व्याकरणस्य अध्ययनम् ।
     
-    https://grammarofsanskrit.wordpress.com/ [<ClickToCopy text="https://grammarofsanskrit.wordpress.com/feed">Copy Feed Link</ClickToCopy>]
+    https://grammarofsanskrit.wordpress.com/ [<ClickToCopy text="https://grammarofsanskrit.wordpress.com/feed">Click to copy feed link.</ClickToCopy>]
     
 1. ### जयतु जयतु संस्कृतम्
     
-    http://kalidasa.blogspot.com/ [<ClickToCopy text="http://kalidasa.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://kalidasa.blogspot.com/ [<ClickToCopy text="http://kalidasa.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### निमित्तमात्रम् च निमिषमात्रम्
     
-    http://nimittam.blogspot.com/ [<ClickToCopy text="http://nimittam.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://nimittam.blogspot.com/ [<ClickToCopy text="http://nimittam.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### ---!!! गीतभारती !!!---
     
-    http://yaajushi.blogspot.com/ [<ClickToCopy text="http://yaajushi.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://yaajushi.blogspot.com/ [<ClickToCopy text="http://yaajushi.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### जालिकानां जालशिष्टाचारः
     
-    https://yaajushi.wordpress.com/ [<ClickToCopy text="https://yaajushi.wordpress.com/feed">Copy Feed Link</ClickToCopy>]
+    https://yaajushi.wordpress.com/ [<ClickToCopy text="https://yaajushi.wordpress.com/feed">Click to copy feed link.</ClickToCopy>]
     
 1. ### कोऽहम् – WHO AM I ?
     
-    https://koham.wordpress.com/ [<ClickToCopy text="https://koham.wordpress.com/feed">Copy Feed Link</ClickToCopy>]
+    https://koham.wordpress.com/ [<ClickToCopy text="https://koham.wordpress.com/feed">Click to copy feed link.</ClickToCopy>]
     
 1. ### संस्कृत नाम दैवी वाक् – Sanskrit for all- Promote sanskrit!
     
-    https://sanskritforall.wordpress.com/ [<ClickToCopy text="https://sanskritforall.wordpress.com/feed">Copy Feed Link</ClickToCopy>]
+    https://sanskritforall.wordpress.com/ [<ClickToCopy text="https://sanskritforall.wordpress.com/feed">Click to copy feed link.</ClickToCopy>]
     
 1. ### AVG-Sanskrit
     
-    https://avg-sanskrit.org/ [<ClickToCopy text="https://avg-sanskrit.org/feed">Copy Feed Link</ClickToCopy>]
+    https://avg-sanskrit.org/ [<ClickToCopy text="https://avg-sanskrit.org/feed">Click to copy feed link.</ClickToCopy>]
     
 1. ### surendra.shastram
     
-    http://surendrashastram.blogspot.com/ [<ClickToCopy text="http://surendrashastram.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://surendrashastram.blogspot.com/ [<ClickToCopy text="http://surendrashastram.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### विश्ववाणी
     
-    http://vishvavani.blogspot.com/ [<ClickToCopy text="http://vishvavani.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://vishvavani.blogspot.com/ [<ClickToCopy text="http://vishvavani.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### संस्कृतपत्रिका
     
-    http://samskritapatrika.blogspot.com/ [<ClickToCopy text="http://samskritapatrika.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://samskritapatrika.blogspot.com/ [<ClickToCopy text="http://samskritapatrika.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### संस्कृति संस्कृत
     
-    http://girirajs.blogspot.com/ [<ClickToCopy text="http://girirajs.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://girirajs.blogspot.com/ [<ClickToCopy text="http://girirajs.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### का त्वं बाले ?
     
-    http://kaatvambale.blogspot.com/ [<ClickToCopy text="http://kaatvambale.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://kaatvambale.blogspot.com/ [<ClickToCopy text="http://kaatvambale.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### संस्कृतमधुरम्
     
-    http://samskruthamadhuram.blogspot.com/ [<ClickToCopy text="http://samskruthamadhuram.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://samskruthamadhuram.blogspot.com/ [<ClickToCopy text="http://samskruthamadhuram.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### Iyer Samskritam
     
-    http://iyersamskritam.blogspot.com/ [<ClickToCopy text="http://iyersamskritam.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://iyersamskritam.blogspot.com/ [<ClickToCopy text="http://iyersamskritam.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### ॥अद्यतनचिन्तनम्॥
     
-    http://adyatanachintanam.blogspot.com/ [<ClickToCopy text="http://adyatanachintanam.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://adyatanachintanam.blogspot.com/ [<ClickToCopy text="http://adyatanachintanam.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### ॥स्वान्त:सुखायात्मगाथा आनुदैनिकी॥
     
-    http://anudinam.blogspot.com/ [<ClickToCopy text="http://anudinam.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://anudinam.blogspot.com/ [<ClickToCopy text="http://anudinam.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### ॥सर्वसज्जनहितम्॥
     
-    http://satyayugam.blogspot.com/ [<ClickToCopy text="http://satyayugam.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://satyayugam.blogspot.com/ [<ClickToCopy text="http://satyayugam.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### संस्कृतम्
     
-    https://tirhuta.blogspot.com/ [<ClickToCopy text="https://tirhuta.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://tirhuta.blogspot.com/ [<ClickToCopy text="https://tirhuta.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### संस्कृतम्
     
-    https://samskrit.wordpress.com/ [<ClickToCopy text="https://samskrit.wordpress.com/feed">Copy Feed Link</ClickToCopy>]
+    https://samskrit.wordpress.com/ [<ClickToCopy text="https://samskrit.wordpress.com/feed">Click to copy feed link.</ClickToCopy>]
     
 1. ### संस्कृत गद्य समालोचना
     
-    http://sanskritgdyasmalochana.blogspot.com/ [<ClickToCopy text="http://sanskritgdyasmalochana.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://sanskritgdyasmalochana.blogspot.com/ [<ClickToCopy text="http://sanskritgdyasmalochana.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### Ancient_Sanskrit Epics
     
-    http://ancientepics.blogspot.com/ [<ClickToCopy text="http://ancientepics.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://ancientepics.blogspot.com/ [<ClickToCopy text="http://ancientepics.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### vadatu sanskritam
     
-    http://vadatusanskritam.blogspot.com/ [<ClickToCopy text="http://vadatusanskritam.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://vadatusanskritam.blogspot.com/ [<ClickToCopy text="http://vadatusanskritam.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### दैवज्ञानम्
     
-    http://daivajnanam.blogspot.com/ [<ClickToCopy text="http://daivajnanam.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://daivajnanam.blogspot.com/ [<ClickToCopy text="http://daivajnanam.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### दासाश्रमः
     
-    http://dasashrama.blogspot.com/ [<ClickToCopy text="http://dasashrama.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://dasashrama.blogspot.com/ [<ClickToCopy text="http://dasashrama.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### गीर्वाणवाग्झरी
     
-    http://girvanavagjhari.blogspot.com/ [<ClickToCopy text="http://girvanavagjhari.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://girvanavagjhari.blogspot.com/ [<ClickToCopy text="http://girvanavagjhari.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### Practical Sanskrit
     
-    https://blog.practicalsanskrit.com/ [<ClickToCopy text="https://blog.practicalsanskrit.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://blog.practicalsanskrit.com/ [<ClickToCopy text="https://blog.practicalsanskrit.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### संस्कृतम् – A blog in Sanskrit
     
-    https://vaak.wordpress.com/ [<ClickToCopy text="https://vaak.wordpress.com/feed">Copy Feed Link</ClickToCopy>]
+    https://vaak.wordpress.com/ [<ClickToCopy text="https://vaak.wordpress.com/feed">Click to copy feed link.</ClickToCopy>]
     
 1. ### संस्कृत सुभाषिते [अर्थासकट]
     
-    http://subhashite.blogspot.com/ [<ClickToCopy text="http://subhashite.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://subhashite.blogspot.com/ [<ClickToCopy text="http://subhashite.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### संस्कृतानुभव
     
-    http://sanskritsubhashite.blogspot.com/ [<ClickToCopy text="http://sanskritsubhashite.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://sanskritsubhashite.blogspot.com/ [<ClickToCopy text="http://sanskritsubhashite.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
         
 1. ### Chanakya-Learning
     
-    http://chankya-learnings.blogspot.com/ [<ClickToCopy text="http://chankya-learnings.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://chankya-learnings.blogspot.com/ [<ClickToCopy text="http://chankya-learnings.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### सुभाषितानि (Subhashitani)
     
-    https://subhashitani.wordpress.com/ [<ClickToCopy text="https://subhashitani.wordpress.com/feed">Copy Feed Link</ClickToCopy>]
+    https://subhashitani.wordpress.com/ [<ClickToCopy text="https://subhashitani.wordpress.com/feed">Click to copy feed link.</ClickToCopy>]
     
 1. ### संस्कृतम्
     
-    https://samskrtam.wordpress.com/ [<ClickToCopy text="https://samskrtam.wordpress.com/feed">Copy Feed Link</ClickToCopy>]
+    https://samskrtam.wordpress.com/ [<ClickToCopy text="https://samskrtam.wordpress.com/feed">Click to copy feed link.</ClickToCopy>]
     
 1. ### संस्कृतम्
     
-    https://vasansanskrit.blogspot.com/ [<ClickToCopy text="https://vasansanskrit.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://vasansanskrit.blogspot.com/ [<ClickToCopy text="https://vasansanskrit.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### संस्कृतम्
     
-    https://sanskritmani.blogspot.com/ [<ClickToCopy text="https://sanskritmani.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://sanskritmani.blogspot.com/ [<ClickToCopy text="https://sanskritmani.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### संस्कृत-प्रभा (SANSKRIT PRABHA - Shine of Sanskrit)
     
-    https://sanskritprabha.blogspot.com/ [<ClickToCopy text="https://sanskritprabha.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://sanskritprabha.blogspot.com/ [<ClickToCopy text="https://sanskritprabha.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### Sanskrit - संस्कृतम्
     
-    https://learning-sanskrit.blogspot.com/ [<ClickToCopy text="https://learning-sanskrit.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://learning-sanskrit.blogspot.com/ [<ClickToCopy text="https://learning-sanskrit.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### Sanskrit-Tutorial
     
-    https://sanskrit-tutorial.blogspot.com/ [<ClickToCopy text="https://sanskrit-tutorial.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://sanskrit-tutorial.blogspot.com/ [<ClickToCopy text="https://sanskrit-tutorial.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### सरलभाषा संस्कृतम्
     
-    https://sanskritvyakaran1.blogspot.com/ [<ClickToCopy text="https://sanskritvyakaran1.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://sanskritvyakaran1.blogspot.com/ [<ClickToCopy text="https://sanskritvyakaran1.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### पठतु संस्कृतम्।।
     
-    https://ashokverma1987.blogspot.com/ [<ClickToCopy text="https://ashokverma1987.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://ashokverma1987.blogspot.com/ [<ClickToCopy text="https://ashokverma1987.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### संस्कृतरसानन्द गुरुकुलम्
     
-    https://samskritrasanandgurukulam.blogspot.com/ [<ClickToCopy text="https://samskritrasanandgurukulam.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://samskritrasanandgurukulam.blogspot.com/ [<ClickToCopy text="https://samskritrasanandgurukulam.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### Spoken Sanskrit
     
-    https://sanskrit-speaking.blogspot.com/ [<ClickToCopy text="https://sanskrit-speaking.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://sanskrit-speaking.blogspot.com/ [<ClickToCopy text="https://sanskrit-speaking.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### जयतु संस्कृतम् (Jayatu Samskrutam)
     
-    https://jyatusamskrutam.blogspot.com/ [<ClickToCopy text="https://jyatusamskrutam.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://jyatusamskrutam.blogspot.com/ [<ClickToCopy text="https://jyatusamskrutam.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### सर्वाङ्गीण विकास
     
-    https://sanskritpersonaldevelopment.blogspot.com/ [<ClickToCopy text="https://sanskritpersonaldevelopment.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://sanskritpersonaldevelopment.blogspot.com/ [<ClickToCopy text="https://sanskritpersonaldevelopment.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### संस्कृतम्
     
-    https://anusanskrit1.blogspot.com/ [<ClickToCopy text="https://anusanskrit1.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://anusanskrit1.blogspot.com/ [<ClickToCopy text="https://anusanskrit1.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### सर्वमयं संस्कृतम्
     
-    https://sarvaskt.blogspot.com/ [<ClickToCopy text="https://sarvaskt.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://sarvaskt.blogspot.com/ [<ClickToCopy text="https://sarvaskt.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### Sanskrit Made Simple
     
-    https://sanskritmadesimple.blogspot.com/ [<ClickToCopy text="https://sanskritmadesimple.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://sanskritmadesimple.blogspot.com/ [<ClickToCopy text="https://sanskritmadesimple.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### Samskritam
     
-    https://sulabhasamskritam.blogspot.com/ [<ClickToCopy text="https://sulabhasamskritam.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://sulabhasamskritam.blogspot.com/ [<ClickToCopy text="https://sulabhasamskritam.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### संस्कृतम्
     
-    https://sanskritkrahasya.blogspot.com/ [<ClickToCopy text="https://sanskritkrahasya.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://sanskritkrahasya.blogspot.com/ [<ClickToCopy text="https://sanskritkrahasya.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### purnakodela
     
-    http://purnakodela.blogspot.com/ [<ClickToCopy text="http://purnakodela.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://purnakodela.blogspot.com/ [<ClickToCopy text="http://purnakodela.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### देवभाषा संस्कृतम्
     
-    https://devabhashasanskritam.blogspot.com/ [<ClickToCopy text="https://devabhashasanskritam.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://devabhashasanskritam.blogspot.com/ [<ClickToCopy text="https://devabhashasanskritam.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### जयतु संस्कृतम् जयतु जयतु भारतम्
     
-    https://pandey2512.blogspot.com/ [<ClickToCopy text="https://pandey2512.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://pandey2512.blogspot.com/ [<ClickToCopy text="https://pandey2512.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### Sanskrit Text
     
-    https://sanskritext.blogspot.com/ [<ClickToCopy text="https://sanskritext.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://sanskritext.blogspot.com/ [<ClickToCopy text="https://sanskritext.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### Samskrita Bhasha Bodha (संस्कृतभाषाबोधः)
     
-    https://bhashabodha.blogspot.com/ [<ClickToCopy text="https://bhashabodha.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://bhashabodha.blogspot.com/ [<ClickToCopy text="https://bhashabodha.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### Sanskrittutorials
     
-    https://esanskritshala.blogspot.com/ [<ClickToCopy text="https://esanskritshala.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://esanskritshala.blogspot.com/ [<ClickToCopy text="https://esanskritshala.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### Sanskrit Blog of Kendriya Vidyalaya Subathu
     
-    https://kvsubathusanskrit.blogspot.com/ [<ClickToCopy text="https://kvsubathusanskrit.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://kvsubathusanskrit.blogspot.com/ [<ClickToCopy text="https://kvsubathusanskrit.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### विद्यां ददाति विनयं
     
-    https://vanisriv.blogspot.com/ [<ClickToCopy text="https://vanisriv.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://vanisriv.blogspot.com/ [<ClickToCopy text="https://vanisriv.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### Sanskrit Reading Room
     
-    https://sanskritreadingroom.wordpress.com/ [<ClickToCopy text="https://sanskritreadingroom.wordpress.com/feed">Copy Feed Link</ClickToCopy>]
+    https://sanskritreadingroom.wordpress.com/ [<ClickToCopy text="https://sanskritreadingroom.wordpress.com/feed">Click to copy feed link.</ClickToCopy>]
     
 1. ### apūrvaracanā
     
-    https://apurvaracana.tumblr.com/ [<ClickToCopy text="https://apurvaracana.tumblr.com/rss">Copy Feed Link</ClickToCopy>]
+    https://apurvaracana.tumblr.com/ [<ClickToCopy text="https://apurvaracana.tumblr.com/rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### संस्कृत-हिताय
     
-    https://samskruthitaay.wordpress.com/ [<ClickToCopy text="https://samskruthitaay.wordpress.com/feed">Copy Feed Link</ClickToCopy>]
+    https://samskruthitaay.wordpress.com/ [<ClickToCopy text="https://samskruthitaay.wordpress.com/feed">Click to copy feed link.</ClickToCopy>]
     
 1. ### SAMSKRUTAM (Also called Sanskrit)
     
-    https://navankura.wordpress.com/ [<ClickToCopy text="https://navankura.wordpress.com/feed">Copy Feed Link</ClickToCopy>]
+    https://navankura.wordpress.com/ [<ClickToCopy text="https://navankura.wordpress.com/feed">Click to copy feed link.</ClickToCopy>]
     
 1. ### Sanskrit Literature
     
-    https://venetiaansell.wordpress.com/ [<ClickToCopy text="https://venetiaansell.wordpress.com/feed">Copy Feed Link</ClickToCopy>]
+    https://venetiaansell.wordpress.com/ [<ClickToCopy text="https://venetiaansell.wordpress.com/feed">Click to copy feed link.</ClickToCopy>]
     
 1. ### Sanskrit School
     
-    https://www.sanskritschool.in/ [<ClickToCopy text="https://www.sanskritschool.in/feed/">Copy Feed Link</ClickToCopy>]
+    https://www.sanskritschool.in/ [<ClickToCopy text="https://www.sanskritschool.in/feed/">Click to copy feed link.</ClickToCopy>]
     
 1. ### Shreepad Seva Mandal Blog
     
-    https://blog.ssmandal.org/ [<ClickToCopy text="https://blog.ssmandal.org/rss">Copy Feed Link</ClickToCopy>]
+    https://blog.ssmandal.org/ [<ClickToCopy text="https://blog.ssmandal.org/rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### SAMSKRIT PEARLS
     
-    https://samskritpearls.blogspot.com/ [<ClickToCopy text="https://samskritpearls.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://samskritpearls.blogspot.com/ [<ClickToCopy text="https://samskritpearls.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### Sree Guru Krupa
     
-    https://sreegurukrupa.blogspot.com/ [<ClickToCopy text="https://sreegurukrupa.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://sreegurukrupa.blogspot.com/ [<ClickToCopy text="https://sreegurukrupa.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### Sanskrit Gyan
     
-    https://samskritgyan.blogspot.com/ [<ClickToCopy text="https://samskritgyan.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://samskritgyan.blogspot.com/ [<ClickToCopy text="https://samskritgyan.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### Learn Sanskrit Through Ramayanam
     
-    https://learn-sanskrit-through-ramayanam.blogspot.com/ [<ClickToCopy text="https://learn-sanskrit-through-ramayanam.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://learn-sanskrit-through-ramayanam.blogspot.com/ [<ClickToCopy text="https://learn-sanskrit-through-ramayanam.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### अन्वयदर्शिका
     
-    https://anvayadarshika.blogspot.com/ [<ClickToCopy text="https://anvayadarshika.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://anvayadarshika.blogspot.com/ [<ClickToCopy text="https://anvayadarshika.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### सावित्र्युपाख्यानम् (महाभारते सावित्र्याः कथा)
     
-    http://savitri-upakhyana.blogspot.com/ [<ClickToCopy text="http://savitri-upakhyana.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://savitri-upakhyana.blogspot.com/ [<ClickToCopy text="http://savitri-upakhyana.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### चित्रव्याख्या
     
-    http://chitravyakhya.blogspot.com/ [<ClickToCopy text="http://chitravyakhya.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://chitravyakhya.blogspot.com/ [<ClickToCopy text="http://chitravyakhya.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### हास्यसञ्जीवनी
     
-    http://hasya-sanjivani.blogspot.com/ [<ClickToCopy text="http://hasya-sanjivani.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://hasya-sanjivani.blogspot.com/ [<ClickToCopy text="http://hasya-sanjivani.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### सुभाषित-विज्ञानम्
     
-    http://subhashita-vijnanam.blogspot.com/ [<ClickToCopy text="http://subhashita-vijnanam.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://subhashita-vijnanam.blogspot.com/ [<ClickToCopy text="http://subhashita-vijnanam.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### लौकिकन्यायाः
     
-    http://lokanyaya.blogspot.com/ [<ClickToCopy text="http://lokanyaya.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://lokanyaya.blogspot.com/ [<ClickToCopy text="http://lokanyaya.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### व्यावहारिकसंस्कृतम्
     
-    http://vyavaharika-samskrtam.blogspot.com/ [<ClickToCopy text="http://vyavaharika-samskrtam.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://vyavaharika-samskrtam.blogspot.com/ [<ClickToCopy text="http://vyavaharika-samskrtam.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### हितोपदेश-सुभाषित-श्लोकाः
     
-    http://hitopadesha-subhashita.blogspot.com/ [<ClickToCopy text="http://hitopadesha-subhashita.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://hitopadesha-subhashita.blogspot.com/ [<ClickToCopy text="http://hitopadesha-subhashita.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### सुभाषितदीपशिखा సుభాషితదీపశిఖా
     
-    http://subhashita-deepashikha.blogspot.com/ [<ClickToCopy text="http://subhashita-deepashikha.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://subhashita-deepashikha.blogspot.com/ [<ClickToCopy text="http://subhashita-deepashikha.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### लोकोक्त्यालोकः
     
-    http://samskrta-lokokti.blogspot.com/ [<ClickToCopy text="http://samskrta-lokokti.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://samskrta-lokokti.blogspot.com/ [<ClickToCopy text="http://samskrta-lokokti.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### अभिनव-बालनीतिकथा-सप्ततिः
     
-    http://abhinavabalanitikatha.blogspot.com/ [<ClickToCopy text="http://abhinavabalanitikatha.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://abhinavabalanitikatha.blogspot.com/ [<ClickToCopy text="http://abhinavabalanitikatha.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### संस्कृतिसमस्याः, समाधानानि
     
-    http://samskrti-samasya.blogspot.com/ [<ClickToCopy text="http://samskrti-samasya.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://samskrti-samasya.blogspot.com/ [<ClickToCopy text="http://samskrti-samasya.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### स्वर्वाणीविलासः
     
-    http://svarvani-vilasah.blogspot.com/ [<ClickToCopy text="http://svarvani-vilasah.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://svarvani-vilasah.blogspot.com/ [<ClickToCopy text="http://svarvani-vilasah.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### संस्कृतस्तोत्राणि సంస్కృతస్తోత్రాణి
     
-    http://samskrta-stotrani.blogspot.com/ [<ClickToCopy text="http://samskrta-stotrani.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://samskrta-stotrani.blogspot.com/ [<ClickToCopy text="http://samskrta-stotrani.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### संस्कृतश्रीःप्रकाशिका
     
-    http://samskrta-shri-prakashika.blogspot.com/ [<ClickToCopy text="http://samskrta-shri-prakashika.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://samskrta-shri-prakashika.blogspot.com/ [<ClickToCopy text="http://samskrta-shri-prakashika.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### Vidyasagar - in quest for knowledge
     
-    https://pranavasagar.blogspot.com/ [<ClickToCopy text="https://pranavasagar.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://pranavasagar.blogspot.com/ [<ClickToCopy text="https://pranavasagar.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### Amod Sanskrit
     
-    https://sampurnsanskritam.blogspot.com/ [<ClickToCopy text="https://sampurnsanskritam.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://sampurnsanskritam.blogspot.com/ [<ClickToCopy text="https://sampurnsanskritam.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### Sanskrit
     
-    https://uttamasanskrit.blogspot.com/ [<ClickToCopy text="https://uttamasanskrit.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://uttamasanskrit.blogspot.com/ [<ClickToCopy text="https://uttamasanskrit.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### Learn Sanskrit And Read The Scriptures For Yourself!
     
-    https://all-about-sanskrit.blogspot.com/ [<ClickToCopy text="https://all-about-sanskrit.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://all-about-sanskrit.blogspot.com/ [<ClickToCopy text="https://all-about-sanskrit.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
     
 1. ### सूक्तिसुधा-१
     
-    https://sooktisudha1.blogspot.com/ [<ClickToCopy text="https://sooktisudha1.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://sooktisudha1.blogspot.com/ [<ClickToCopy text="https://sooktisudha1.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
 
 1. ### सूक्तिसुधा-२
     
-    https://sooktisudha2.blogspot.com/ [<ClickToCopy text="https://sooktisudha2.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://sooktisudha2.blogspot.com/ [<ClickToCopy text="https://sooktisudha2.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
 
 1. ### सूक्तिसुधा-३
     
-    https://sooktisudha3.blogspot.com/ [<ClickToCopy text="https://sooktisudha3.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://sooktisudha3.blogspot.com/ [<ClickToCopy text="https://sooktisudha3.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
 
 1. ### संस्कृताध्ययनम् ।
     
-    https://slabhyankar.wordpress.com/ [<ClickToCopy text="https://slabhyankar.wordpress.com/feed/">Copy Feed Link</ClickToCopy>]
+    https://slabhyankar.wordpress.com/ [<ClickToCopy text="https://slabhyankar.wordpress.com/feed/">Click to copy feed link.</ClickToCopy>]
 
 1. ### संस्कृतभवनम्
     
-    https://sanskritabhavanam.wordpress.com/ [<ClickToCopy text="https://sanskritabhavanam.wordpress.com/feed/">Copy Feed Link</ClickToCopy>]
+    https://sanskritabhavanam.wordpress.com/ [<ClickToCopy text="https://sanskritabhavanam.wordpress.com/feed/">Click to copy feed link.</ClickToCopy>]
 
 1. ### गीतान्वेषणम्
     
-    https://study1geetaa2sanskrit.wordpress.com/ [<ClickToCopy text="https://study1geetaa2sanskrit.wordpress.com/feed/">Copy Feed Link</ClickToCopy>]
+    https://study1geetaa2sanskrit.wordpress.com/ [<ClickToCopy text="https://study1geetaa2sanskrit.wordpress.com/feed/">Click to copy feed link.</ClickToCopy>]
 
 1. ### गीतायाः धात्वभ्यासः
     
-    https://dhaatusingeetaa.wordpress.com/ [<ClickToCopy text="https://dhaatusingeetaa.wordpress.com/feed/">Copy Feed Link</ClickToCopy>]
+    https://dhaatusingeetaa.wordpress.com/ [<ClickToCopy text="https://dhaatusingeetaa.wordpress.com/feed/">Click to copy feed link.</ClickToCopy>]
 
 1. ### संस्कृत-प्रसृति:
     
-    https://sanskritaprasruti.wordpress.com/ [<ClickToCopy text="https://sanskritaprasruti.wordpress.com/feed/">Copy Feed Link</ClickToCopy>]
+    https://sanskritaprasruti.wordpress.com/ [<ClickToCopy text="https://sanskritaprasruti.wordpress.com/feed/">Click to copy feed link.</ClickToCopy>]
 
 1. ### उपनिषदध्ययनम्
     
-    https://upanishat.wordpress.com/ [<ClickToCopy text="https://upanishat.wordpress.com/feed/">Copy Feed Link</ClickToCopy>]
+    https://upanishat.wordpress.com/ [<ClickToCopy text="https://upanishat.wordpress.com/feed/">Click to copy feed link.</ClickToCopy>]
 
 1. ### संस्कृतचर्चा
     
-    https://samskrutacharchaa.wordpress.com/ [<ClickToCopy text="http://samskrutacharchaa.wordpress.com/feed">Copy Feed Link</ClickToCopy>]
+    https://samskrutacharchaa.wordpress.com/ [<ClickToCopy text="http://samskrutacharchaa.wordpress.com/feed">Click to copy feed link.</ClickToCopy>]
 
 1. ### ज्योतिर्विज्ञानम्
     
-    https://jyotirvigyaanam.wordpress.com/ [<ClickToCopy text="https://jyotirvigyaanam.wordpress.com/feed/">Copy Feed Link</ClickToCopy>]
+    https://jyotirvigyaanam.wordpress.com/ [<ClickToCopy text="https://jyotirvigyaanam.wordpress.com/feed/">Click to copy feed link.</ClickToCopy>]
 
 1. ### गणिताभ्यासः
     
-    https://ganitabhyas.wordpress.com/ [<ClickToCopy text="https://ganitabhyas.wordpress.com/feed">Copy Feed Link</ClickToCopy>]
+    https://ganitabhyas.wordpress.com/ [<ClickToCopy text="https://ganitabhyas.wordpress.com/feed">Click to copy feed link.</ClickToCopy>]
 
 1. ### ॐ  संस्कृतम्
     
-    https://www.sanskritm.in/ [<ClickToCopy text="https://www.sanskritm.in/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://www.sanskritm.in/ [<ClickToCopy text="https://www.sanskritm.in/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
 
 1. ### VIJAY BHATE
     
-    https://mysanskritsubhashit.wordpress.com/ [<ClickToCopy text="https://mysanskritsubhashit.wordpress.com/feed">Copy Feed Link</ClickToCopy>]
+    https://mysanskritsubhashit.wordpress.com/ [<ClickToCopy text="https://mysanskritsubhashit.wordpress.com/feed">Click to copy feed link.</ClickToCopy>]
 
 1. ### सुभाषितानि Subhashitani
     
-    https://subhashitani-en.blogspot.com/ [<ClickToCopy text="https://subhashitani-en.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://subhashitani-en.blogspot.com/ [<ClickToCopy text="https://subhashitani-en.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
 
 1. ### संस्‍कृतजगत्
     
-    http://sanskritjagat.blogspot.com/ [<ClickToCopy text="https://sanskritjagat.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://sanskritjagat.blogspot.com/ [<ClickToCopy text="https://sanskritjagat.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
 
 1. ### संस्कृत-हिताय
     
-    https://sanskrithitaay.wordpress.com/ [<ClickToCopy text="https://sanskrithitaay.wordpress.com/rss">Copy Feed Link</ClickToCopy>]
+    https://sanskrithitaay.wordpress.com/ [<ClickToCopy text="https://sanskrithitaay.wordpress.com/rss">Click to copy feed link.</ClickToCopy>]
 
 1. ### Sanskritbhashi संस्कृतभाषी
     
-    https://sanskritbhasi.blogspot.com/ [<ClickToCopy text="https://sanskritbhasi.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://sanskritbhasi.blogspot.com/ [<ClickToCopy text="https://sanskritbhasi.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
 
 1. ### संस्कृत की दुनिया : कौशलम् न्यास
     
-    https://sanskrit-ki-duniya.blogspot.com/ [<ClickToCopy text="https://sanskrit-ki-duniya.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://sanskrit-ki-duniya.blogspot.com/ [<ClickToCopy text="https://sanskrit-ki-duniya.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
 
 1. ### सरलं संस्कृतम्
     
-    https://simplesanskrit.wordpress.com/ [<ClickToCopy text="https://simplesanskrit.wordpress.com/feed/">Copy Feed Link</ClickToCopy>]
+    https://simplesanskrit.wordpress.com/ [<ClickToCopy text="https://simplesanskrit.wordpress.com/feed/">Click to copy feed link.</ClickToCopy>]
 
 1. ### Subhashithani | Mukundapriya
     
-    https://mukundapriya.blogspot.com/ [<ClickToCopy text="https://mukundapriya.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://mukundapriya.blogspot.com/ [<ClickToCopy text="https://mukundapriya.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
 
 1. ### Kalpana
     
-    https://kalpanamuzumdar.wordpress.com/ [<ClickToCopy text="https://kalpanamuzumdar.wordpress.com/feed/">Copy Feed Link</ClickToCopy>]
+    https://kalpanamuzumdar.wordpress.com/ [<ClickToCopy text="https://kalpanamuzumdar.wordpress.com/feed/">Click to copy feed link.</ClickToCopy>]
 
 1. ### kanfusion
     
-    https://kanfusion.blogspot.com/ [<ClickToCopy text="https://kanfusion.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://kanfusion.blogspot.com/ [<ClickToCopy text="https://kanfusion.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
 
 1. ### Sanskrit – A Billion Stories
     
-    https://abillionstories.wordpress.com/ [<ClickToCopy text="https://abillionstories.wordpress.com/category/sanskrit/feed/">Copy Feed Link</ClickToCopy>]
+    https://abillionstories.wordpress.com/ [<ClickToCopy text="https://abillionstories.wordpress.com/category/sanskrit/feed/">Click to copy feed link.</ClickToCopy>]
 
 1. ### Sanskrit Subhashitas
     
-    http://mcjoshi21.blogspot.com/ [<ClickToCopy text="http://mcjoshi21.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://mcjoshi21.blogspot.com/ [<ClickToCopy text="http://mcjoshi21.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
 
 1. ### sanskrit
     
-    http://rajsia1.blogspot.com/ [<ClickToCopy text="http://rajsia1.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://rajsia1.blogspot.com/ [<ClickToCopy text="http://rajsia1.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
 
 1. ### Anuśīlana.in
     
-    https://anusilana.in/ [<ClickToCopy text="https://anusilana.in/feed/">Copy Feed Link</ClickToCopy>]
+    https://anusilana.in/ [<ClickToCopy text="https://anusilana.in/feed/">Click to copy feed link.</ClickToCopy>]
 
 1. ### Project Ulooka
     
-    https://www.projectulooka.com/ [<ClickToCopy text="https://www.projectulooka.com/blog-feed.xml">Copy Feed Link</ClickToCopy>]
+    https://www.projectulooka.com/ [<ClickToCopy text="https://www.projectulooka.com/blog-feed.xml">Click to copy feed link.</ClickToCopy>]
 
 1. ### कोटी कथा सङ्ग्रह्
     
-    https://sanskritreads.abillionstories.com/ [<ClickToCopy text="https://sanskritreads.abillionstories.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://sanskritreads.abillionstories.com/ [<ClickToCopy text="https://sanskritreads.abillionstories.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
 
 1. ### युवधिषणा Yuvadhishana
     
-    https://thiyaga1989.blogspot.com/ [<ClickToCopy text="https://thiyaga1989.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    https://thiyaga1989.blogspot.com/ [<ClickToCopy text="https://thiyaga1989.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
 
 1. ### शिशुपालवधम्
     
-    https://maghakavyam.wordpress.com/ [<ClickToCopy text="https://maghakavyam.wordpress.com/feed/">Copy Feed Link</ClickToCopy>]
+    https://maghakavyam.wordpress.com/ [<ClickToCopy text="https://maghakavyam.wordpress.com/feed/">Click to copy feed link.</ClickToCopy>]
 
 1. ### Vidyaadaanam
     
-    https://nivedita2015.wordpress.com/ [<ClickToCopy text="https://nivedita2015.wordpress.com/feed/">Copy Feed Link</ClickToCopy>]
+    https://nivedita2015.wordpress.com/ [<ClickToCopy text="https://nivedita2015.wordpress.com/feed/">Click to copy feed link.</ClickToCopy>]
 
 1. ### Yuvadhisana
     
-    http://vinothiyaga.blogspot.com/ [<ClickToCopy text="http://vinothiyaga.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://vinothiyaga.blogspot.com/ [<ClickToCopy text="http://vinothiyaga.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
 
 1. ### Medha Michikaの世界
     
-    http://medhamichika.blogspot.com/ [<ClickToCopy text="http://medhamichika.blogspot.com/feeds/posts/default?alt=rss">Copy Feed Link</ClickToCopy>]
+    http://medhamichika.blogspot.com/ [<ClickToCopy text="http://medhamichika.blogspot.com/feeds/posts/default?alt=rss">Click to copy feed link.</ClickToCopy>]
 
