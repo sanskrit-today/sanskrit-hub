@@ -45,4 +45,4 @@ sidebar_position: 1
 
 ## Other Tools
 
-    * You can also checkout [Sanskrit Dictionary Telegram Bots](/info/utility/telegram-bots#dictionary-bots)
+* You can also checkout [Sanskrit Dictionary Telegram Bots](/info/utility/telegram-bots#dictionary-bots)
