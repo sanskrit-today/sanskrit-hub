@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # List of Sanskrit Dictionaries
 
+## Dictionaries
+
 1. ### [Kosha.Sanskrit.Today](https://kosha.sanskrit.today)
     
     Go-to resource for exploring the rich and diverse world of Sanskrit. It offers a comprehensive Sanskrit dictionary supports over 60+ dictionaries, and a user-friendly search interface to help you discover the meanings and nuances of Sanskrit terms. [Read more](kosha.sanskrit.today)
@@ -40,3 +42,7 @@ sidebar_position: 1
 1. ### http://sanskritlibrary.org/integratedDictionaries.html
 
     provides access to 43 dictionaries most of which were developed in a collaborative project
+
+## Other Tools
+
+    * You can also checkout [Sanskrit Dictionary Telegram Bots](/info/utility/telegram-bots#dictionary-bots)
