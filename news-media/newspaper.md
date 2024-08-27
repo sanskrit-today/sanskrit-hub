@@ -18,9 +18,7 @@ sidebar_position: 2
 
 1. ### [Samprati Vartah](https://samprativartah.in/)
 
-1. ### [Navavani](https://navavani.org.in/wp/archives/category/news-updates)
-
-1. ### [Nepalitwa](https://nepalitwa.com/sanskrit)
+1. ### [Navavani](https://navavani.org.in/wp/archives/category/news-updates) - hardly few times a month
 
 1. ### [HimSanskrit](http://himsanskritam.com/)
 
@@ -31,3 +29,7 @@ sidebar_position: 2
 1. ### [विश्वस्य वृत्तान्तः](https://epaper.vishvasyavrutantam.in/epaper)
     * Website is dead not reachable.
     * The [Whatsapp Group](https://chat.whatsapp.com/DMZHyjlfQIiIH5POgJfVta) is active
+  
+1. ### [Nepalitwa](https://nepalitwa.com/sanskrit) - dead long back
+
+
