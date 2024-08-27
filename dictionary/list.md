@@ -12,7 +12,7 @@ sidebar_position: 1
 
 1. ### [SanskritKosha.com](https://sanskritkosha.com)
 
-    Explore over 50 integrated dictionaries with a single search, find detailed definitions. <IconFA icon="fa fa-youtube-play" /> [Intro Video](https://youtu.be/Ksgdu6EJ7zA?feature=shared)
+    Explore over 50 integrated dictionaries with a single search, find detailed definitions. [<IconFA icon="fab fa-youtube" /> Intro Video](https://youtu.be/Ksgdu6EJ7zA?feature=shared)
 
 1. ### [Ambuda Dictionaries](https://ambuda.org/tools/dictionaries)
 
