@@ -1,8 +1,9 @@
 ---
+sidebar_label: Telegram
 sidebar_position: 5
 ---
 
-# Telegram
+# Sanskrit Telegram Resources
 
 ## Channels
 
