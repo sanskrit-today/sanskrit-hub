@@ -182,3 +182,5 @@ sidebar_position: 1
 1. ### [Vangmaya Gaurvam](https://www.jkhighereducation.nic.in/sanskrit/default.html)
 
 1. ### [Sn&#299;thik&#257;](https://kbvsasun.ac.in/journals/)
+
+Similar resource https://sanskritdocuments.org/sites/samvadah/#magazines
