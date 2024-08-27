@@ -5,6 +5,29 @@ sidebar_position: 11
 
 # List of Sanskrit Blogs
 
+**Stay Updated with Your Favorite Blogs!**
+
+Welcome to your one-stop shop for all the latest content from your favourite blogs. Here, you'll find a curated list of blogs with links to their RSS feeds.
+
+<Details>
+    <summary mdxType="summary">What & How to use RSS feeds?</summary>
+
+## What's an RSS feed?
+
+An RSS feed (Really Simple Syndication) is a way to automatically stay informed about new blog posts. It's a file containing summaries of the latest content from a website.
+
+## How to use RSS feeds:
+
+* Choose a blog you like from the list below.
+* Click on <IconFA icon="fa fa-rss-square" /> to copy the feed link from this page.
+* Paste the link into a feed reader. Here are some popular options:
+    * Feedreader: http://feedreader.com/
+    * NewsBlur: https://newsblur.com/
+With a feed reader, you can easily see updates from all your favourite blogs in one place, saving you time and keeping you in the loop!
+</Details>
+
+Now, dive into the list below and discover new blogs or stay updated with your existing favourites!
+
 1. ### [संस्कृतम्](https://gadimanoj14.wordpress.com/) <ClickToCopy text="https://gadimanoj14.wordpress.com/feed"><IconFA icon="fa fa-rss-square" /></ClickToCopy>
 
 1. ### [The Vāk](https://the-vak.github.io/) <ClickToCopy text="https://the-vak.github.io/feed"><IconFA icon="fa fa-rss-square" /></ClickToCopy>
