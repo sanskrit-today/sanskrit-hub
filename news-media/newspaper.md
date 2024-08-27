@@ -13,10 +13,6 @@ sidebar_position: 2
 
     In addition to its print edition, the newspaper also has an online presence. Its e-paper version allows readers to access the latest news and articles from anywhere in the world. The Sudharma Sanskrit Daily has a dedicated readership base, especially among scholars, students, and individuals interested in Sanskrit language and culture.
 
-1. ### [Newz Viewz](https://newzviewz.com/sanskrit)
-
-1. ### [Sanskrit Samachar](https://sanskritsamachar.com/)
-
 1. ### [Samprati Vartah](https://samprativartah.in/)
 
 1. ### [Navavani](https://navavani.org.in/wp/archives/category/news-updates)
@@ -24,3 +20,11 @@ sidebar_position: 2
 1. ### [Nepalitwa](https://nepalitwa.com/sanskrit)
 
 1. ### [HimSanskrit](http://himsanskritam.com/)
+
+1. ### [Newz Viewz](https://newzviewz.com/sanskrit) - updated irregularly
+
+1. ### [Sanskrit Samachar](https://sanskritsamachar.com/) - updated irregularly
+
+1. ### [विश्वस्य वृत्तान्तः](https://epaper.vishvasyavrutantam.in/epaper)
+    * Website is dead not reachable.
+    * The [Whatsapp Group](https://chat.whatsapp.com/DMZHyjlfQIiIH5POgJfVta) is active
