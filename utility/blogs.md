@@ -5,12 +5,14 @@ sidebar_position: 11
 
 # List of Sanskrit Blogs
 
-**Stay Updated with Your Favorite Blogs!**
+**Stay Updated with Your Favorite Sanskrit Blogs!**
 
-Welcome to your one-stop shop for all the latest content from your favourite blogs. Here, you'll find a curated list of blogs with links to their RSS feeds.
+Welcome to your one-stop shop for discovering exciting new blogs. **To stay up-to-date with the latest posts** from your favourite blogs, simply:
+1. Click on the blog title to visit their website and explore their content.
+2. Click the <IconFA icon="fa fa-rss-square" /> button next to each blog name to copy the feed link and add it to your feed reader.
 
 <Details>
-    <summary mdxType="summary">What & How to use RSS feeds?</summary>
+    <summary mdxType="summary">More about RSS feeds?</summary>
 
 ## What's an RSS feed?
 
@@ -23,6 +25,7 @@ An RSS feed (Really Simple Syndication) is a way to automatically stay informed 
 * Paste the link into a feed reader. Here are some popular options:
     * Feedreader: http://feedreader.com/
     * NewsBlur: https://newsblur.com/
+
 With a feed reader, you can easily see updates from all your favourite blogs in one place, saving you time and keeping you in the loop!
 </Details>
 
