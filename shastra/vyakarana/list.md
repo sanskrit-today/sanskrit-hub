@@ -7,7 +7,7 @@ sidebar_position: 1
 
 1. ### [ashtadhyayi.com](https://ashtadhyayi.com)
     
-    The website contains a variety of resources related to Sanskrit grammar, including sutras, dhatus, commentaries, dictionaries, and tools. You can use the website to learn Sanskrit grammar or to look up specifics.
+    The website contains a variety of resources related to Sanskrit grammar, including sutras, dhatus, commentaries, dictionaries, and tools. You can use the website to learn Sanskrit grammar or to look up specifics. [<IconFA icon="fa fa-youtube-play" /> Intro Video](https://youtu.be/c29-PhbhsU4?feature=shared)
 
 1. ### https://sanskritdocuments.org/learning_tools/ashtadhyayi/
 
