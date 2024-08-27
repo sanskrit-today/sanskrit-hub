@@ -1,6 +1,7 @@
 ---
+sidebar_label: Instagram
 sidebar_position: 4
 ---
 
-# Instagram
+# Sanskrit Instagram Resources
 
