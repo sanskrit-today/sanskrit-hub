@@ -9,7 +9,7 @@ import ClickToCopy from '@site/src/components/ClickToCopy';
 
 1. ### संस्कृतम्
 
-    https://gadimanoj14.wordpress.com/ [ckToCopy text="https://gadimanoj14.wordpress.com/feed">Copy Feed Link</ClickToCopy>]
+    https://gadimanoj14.wordpress.com/ [clickToCopy text="https://gadimanoj14.wordpress.com/feed">Copy Feed Link</ClickToCopy>]
     
 1. ### The Vāk
 
@@ -17,7 +17,7 @@ import ClickToCopy from '@site/src/components/ClickToCopy';
     
 1. ### Learn Sanskrit
 
-    https://learnsanskrit.wordpress.com/ [ckToCopy text="https://learnsanskrit.wordpress.com/feed">Copy Feed Link</ClickToCopy>]
+    https://learnsanskrit.wordpress.com/ [clickToCopy text="https://learnsanskrit.wordpress.com/feed">Copy Feed Link</ClickToCopy>]
     
 1. ### Balramshukla's Blog
     
