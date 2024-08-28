@@ -7,9 +7,15 @@ sidebar_position: 10
 
 1. ### [Sanskrit Documents](https://sanskritdocuments.org/)
 
+    * This is a website that contains Sanskrit documents. It discusses Sanskrit documents that are available in Devanagari, other Indian language scripts, and IAST transliteration format. The website also contains various tools and links for learning Sanskrit. Some of the important points from this website are that it is free to use and that the documents can be used for personal study and research.
+
 1. ### [Sanskrit Wikipedia](https://sa.wikipedia.org/)
 
+    * Sanskrit Wikipedia (संस्कृत विकिपीडिया) is the Sanskrit-language edition of Wikipedia, the free, online encyclopedia. It's a collaborative project where volunteers from around the world contribute articles and information in Sanskrit.
+
 1. ### [Gita Supersite](https://gitasupersite.iitk.ac.in/)
+
+    * The Gita Supersite, is a website that discusses different Gitas and other religious texts. The site provides links to view the respective content online. Some of the texts featured on the site are the Srimad BhagavadGita, Valmiki Ramayanam, Brahma Sutra, Yoga Sutra, and Upanishads.
 
 1. ### [Upanishads](https://upanishads.org.in/)
 
