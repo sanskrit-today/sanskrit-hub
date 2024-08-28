@@ -17,9 +17,11 @@ sidebar_position: 10
 
     * The Gita Supersite, is a website that discusses different Gitas and other religious texts. The site provides links to view the respective content online. Some of the texts featured on the site are the Srimad BhagavadGita, Valmiki Ramayanam, Brahma Sutra, Yoga Sutra, and Upanishads.
 
-1. ### [Upanishads](https://upanishads.org.in/)
-
 1. ### [Sanskrit Today](https://sanskrit.today/)
+
+    * Sanskrit.Today is a platform for Sanskrit learners. It provides a variety of resources for learning Sanskrit, including dictionaries, textbooks, online courses, and a forum for discussion. Sanskrit.Today also has a YouTube channel with videos on Sanskrit topics.
+
+1. ### [Upanishads](https://upanishads.org.in/)
 
 1. ### [Wisdom Library](https://wisdomlib.org/)
 
