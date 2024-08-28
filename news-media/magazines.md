@@ -186,4 +186,4 @@ sidebar_position: 1
 ## Others
 
 * [Archive of previous magazines](https://archive.org/details/sanskritmagazines/)
-* Similar resource https://sanskritdocuments.org/sites/samvadah/#magazines
+* [Similar resources from SanskritDocuments.org](https://sanskritdocuments.org/sites/samvadah/#magazines)
