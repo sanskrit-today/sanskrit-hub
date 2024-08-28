@@ -183,4 +183,7 @@ sidebar_position: 1
 
 1. ### [Sn&#299;thik&#257;](https://kbvsasun.ac.in/journals/)
 
-Similar resource https://sanskritdocuments.org/sites/samvadah/#magazines
+## Others
+
+* [Archive of previous magazines](https://archive.org/details/sanskritmagazines/)
+* Similar resource https://sanskritdocuments.org/sites/samvadah/#magazines
