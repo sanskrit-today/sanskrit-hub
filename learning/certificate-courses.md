@@ -37,3 +37,20 @@ sidebar_position: 2
     The syllabus and text books as prescribed by the Sabha for each level.
 
     Part-by-part exams allowed and there is no age restriction.
+
+1. ### [Sri Surasaraswati Sabha, Sringeri](https://www.surasaraswathisabha.org)
+
+    The SSS conducts certified courses in a graded five level exams.
+
+    1. प्रथमा - Prathama
+    1. द्वितीया - Dvitiya
+    1. तृतीया - Trteeya
+    1. तुरीया - Tureeya
+    1. प्रवेशा - Pravesha
+
+    Usually the exams are conducted twice in a year on the last Sunday of August and January.
+    Exams cans be taken up at the registered centres of the Sabha across the country. 
+
+    The syllabus and text books as prescribed by the Sabha for each level.
+
+   
