@@ -21,3 +21,19 @@ sidebar_position: 2
 1. ### [Saral Sanskrit Exams by Bharatiya Vidya Bhavan](https://bhavans.info/head-office/institution-details.php?name=Mumbai%20Head%20Office&dept_id=204)
 
     Bharatiya Vidya Bhavan organizes the Saral Sanskrit Examinations biannually, in February and September. These exams cover five graded levels: Balabodha, Prarambha, Pravesha, Parichaya, and Kovida. They are held at over 200 examination centres both in India and internationally. As of 2021, a total of 21,85,538 students have participated in these examinations.
+
+1. ### Chittoor Sabha Exams
+
+    संस्कृतभाषा प्रचारिणी सभा, चित्तूरु - Estd. 6 September,1945 conducts graded exams for certified courses in six stages:
+	1. परिचयः - Parichaya
+	1. अभिज्ञः -  Abhijna
+	1. विचक्षणः - Vichakshana
+	1. समर्थः   - Samartha
+	1. कोविदः   - Kovida
+	1. विद्याभूषणः  - Vidyabhushana
+
+    Usually the exams are conducted twice in a year in the second week of March (फाल्गुनमासे) and second week of September (भाद्रपदमासे)। Both online and off-line exams are allowed. For more details please contact sanskritfromhome.org
+
+    The syllabus and text books as prescribed by the Sabha for each level.
+
+    Part-by-part exams allowed and there is no age restriction.
