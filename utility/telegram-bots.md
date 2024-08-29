@@ -20,7 +20,8 @@ sidebar_position: 1
 
 1. ### [Vaahini.Sanskrit.Today](https://vaahini.sanskrit.today/)
 
-    A simple sanskrit bot to deliver sanskrit content daily like one sanskrit word everyday, one shloka everyday, news, etc.. to your mobile device.
+    * A simple sanskrit bot to deliver sanskrit content daily like one sanskrit word everyday, one shloka everyday, news, etc.. to your mobile device.
+    * [<IconFA icon="fab fa-youtube" /> Intro Video](https://youtu.be/X1Px1V6A58w)
 
 1. ### [@vyakarana_bot](https://t.me/vyakarana_bot)
 
