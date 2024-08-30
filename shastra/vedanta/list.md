@@ -8,3 +8,7 @@ sidebar_position: 1
 1. ### [Bhagavadgita](bhagavadgita)
     
     Visit this link to access various Bhagavadgita resources.
+
+1. ### [Upanishads](upanishad)
+    
+    Visit this link to access various Upanishad resources.
