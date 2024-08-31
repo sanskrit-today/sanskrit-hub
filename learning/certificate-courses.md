@@ -53,70 +53,62 @@ sidebar_position: 2
 
     The syllabus and text books as prescribed by the Sabha for each level.
 
+1. ### Home Study Courses offerred by Chinmaya International Foundation
 
-
-1. ### [Chinmaya International Foundation]  offers Home Study Courses 
-
-    (Email: easysanskrit@chinfo.org)
+    * #### Easy Sanskrit Course – Level 1
     
-    Easy Sanskrit Course – Level 1
+        * As the name suggests, the Easy Sanskrit Course is a simplified initiation and foundation for beginners, keen to start their journey into the world of Sanskrit. 
     
-    ABOUT THE COURSE:
+        * The Easy Sanskrit Course is a stepping stone for learning the divine language, and will serve as a window for all those who want a basic initiation into the priceless tradition, culture and philosophy of India. 
     
-    As the name suggests, the Easy Sanskrit Course is a simplified initiation and foundation for beginners, keen to start their journey into the world of Sanskrit. 
+        * The course covers the language structure as well as the grammar rules. The course teaches the alphabet, their formation, their declension and classification with rigorous practice lessons. The same pattern repeats for each of the grammar topics.
     
-    The Easy Sanskrit Course is a stepping stone for learning the divine language, and will serve as a window for all those who want a basic initiation into the priceless tradition, culture and philosophy of India. 
+        * **COURSE OBJECTIVES:**
     
-    The course covers the language structure as well as the grammar rules. The course teaches the alphabet, their formation, their declension and classification with rigorous practice lessons. The same pattern repeats for each of the grammar topics.
+            * After mastering the Easy Sanskrit Course, the student will be able to study Sanskrit texts such as Ramayana, Mahabharata, and Bhagavad Gita. 
     
-    COURSE OBJECTIVES:
+            * They will also be able to go deeper into Sanskrit Grammar independently or with minimum guidance. The study of Sanskrit is indispensable for studying all aspects of Indian Knowledge – Yoga, Vedanta, Ayurveda, Itihasa, Purana and so on. 
     
-    After mastering the Easy Sanskrit Course, the student will be able to study Sanskrit texts such as Ramayana, Mahabharata, and Bhagavad Gita. 
+        * **COURSE ELIGIBILITY:**
+            * This course has been designed in a manner that anyone regardless of mother tongue and age will get acquainted with the salient aspects of Sanskrit language. 
     
-    They will also be able to go deeper into Sanskrit Grammar independently or with minimum guidance. The study of Sanskrit is indispensable for studying all aspects of Indian Knowledge – Yoga, Vedanta, Ayurveda, Itihasa, Purana and so on. 
+            * Any individual who has an ardent desire and interest to learn Sanskrit is welcome to join this unique method of learning Sanskrit. 
     
-    COURSE ELIGIBILITY:
-    This course has been designed in a manner that anyone regardless of mother tongue and age will get acquainted with the salient aspects of Sanskrit language. 
+            * Any individual from the age of 10 can benefit from this course.
     
-    Any individual who has an ardent desire and interest to learn Sanskrit is welcome to join this unique method of learning Sanskrit. 
+    * #### Easy Sanskrit Course – Level 2
     
-    Any individual from the age of 10 can benefit from this course.
+        * The Easy Sanskrit Course – Level 2 is for the advanced student who has completed the CIF Easy Sanskrit Course- Level 1 or equivalent. 
     
-    Easy Sanskrit Course – Level 2
+        * The grammar element introduced in Level 1 is further explained in this course. Learn the lakara, seven cases, prtyayas and upasarga through the inspiring stories of Ramayana, Bhagavata-Purana and Bhagavad Gita.
     
-    ABOUT THE COURSE:
+        * The course material will be a useful guide for future studies.
     
-    The Easy Sanskrit Course – Level 2 is for the advanced student who has completed the CIF Easy Sanskrit Course- Level 1 or equivalent. 
+        * **COURSE OBJECTIVES:**
     
-    The grammar element introduced in Level 1 is further explained in this course. Learn the lakara, seven cases, prtyayas and upasarga through the inspiring stories of Ramayana, Bhagavata-Purana and Bhagavad Gita.
+            * This course using the method of explanation through suitable examples will help the student to rapidly gain an in-depth understanding of the grammar elements in Sanskrit. 
     
-    The course material will be a useful guide for future studies.
+            * On completing this course, reading the Puranas, Upanishads and the Gita and various commentaries will become easy, and will allow one to peep into the priceless tradition, culture, and philosophy of India. 
     
-    COURSE OBJECTIVES:
+            * This also enables one to enter into the Advanced Sanskrit course with confidence.
     
-    This course using the method of explanation through suitable examples will help the student to rapidly gain an in-depth understanding of the grammar elements in Sanskrit. 
+        * **COURSE ELIGIBILITY:**
     
-    On completing this course, reading the Puranas, Upanishads and the Gita and various commentaries will become easy, and will allow one to peep into the priceless tradition, culture, and philosophy of India. 
+            * This course is ideal for those who have completed the “Easy Sanskrit Course Level 1” through CIF and those students who have the basic concepts of Sanskrit. 
     
-    This also enables one to enter into the Advanced Sanskrit course with confidence.
+    * Contact
     
-    COURSE ELIGIBILITY:
+        Home Study Courses
     
-    This course is ideal for those who have completed the “Easy Sanskrit Course Level 1” through CIF and those students who have the basic concepts of Sanskrit. 
+        Chinmaya International Foundation
     
-    FOR QUERIES: please contact 
+        Adi Sankara Nilayam
     
-    Home Study Courses
+        Veliyanad, Ernakulam District 
     
-    Chinmaya International Foundation
+        Pin – 682313, Kerala, India
     
-    Adi Sankara Nilayam
+        Phone: +91-92077-11140 | +91-484-2749676
     
-    Veliyanad, Ernakulam District 
-    
-    Pin – 682313, Kerala, India
-    
-    Phone: +91-92077-11140 | +91-484-2749676
-    
-    (Email: easysanskrit@chinfo.org)
+        (Email: easysanskrit@chinfo.org)
 
