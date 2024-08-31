@@ -55,7 +55,7 @@ sidebar_position: 2
 
 
 
-1.### [Chinmaya International Foundation]  offers Home Study Courses 
+1. ### [Chinmaya International Foundation]  offers Home Study Courses 
 
     (Email: easysanskrit@chinfo.org)
     
