@@ -112,9 +112,7 @@ sidebar_position: 2
     
     Adi Sankara Nilayam
     
-    Veliyanad
-    
-    Ernakulam District 
+    Veliyanad, Ernakulam District 
     
     Pin – 682313, Kerala, India
     
