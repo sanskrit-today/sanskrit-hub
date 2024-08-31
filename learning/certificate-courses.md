@@ -56,7 +56,8 @@ sidebar_position: 2
 
 
 1.### [Chinmaya International Foundation]  offers Home Study Courses 
-(Email: easysanskrit@chinfo.org)
+
+    (Email: easysanskrit@chinfo.org)
     
     Easy Sanskrit Course – Level 1
     
