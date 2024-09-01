@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# List of Sanskrit Dictionaries
+# List of Sanskrit Dictionaries (Kosha)
 
 ## Dictionaries
 
