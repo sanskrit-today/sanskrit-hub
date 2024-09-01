@@ -76,3 +76,20 @@ sidebar_position: 2
             * This also enables one to enter into the Advanced Sanskrit course with confidence.
         * **COURSE ELIGIBILITY:**
             * This course is ideal for those who have completed the “Easy Sanskrit Course Level 1” through CIF and those students who have the basic concepts of Sanskrit.
+
+1. ### [Sanskrit Examinations](https://swadhyaymandal.org.in/index.php/the-institute/sanskrit-education) by Akhil Bharatiya Sanskrit Bhasha Prachar Samiti
+
+    * Akhil Bharatiya Sanskrit Bhasha Prachar Samiti, Killa Pardi, set-up by Swadhyay Mandal, has been conducting a series of Sanskrit examinations for over six decades and thousands of High School Students and others have benefited from them. The examinations are conducted every February and September.
+    * They are as follows in the ascending order.
+	    1. Prathama
+	    1. Prarambhini
+	    1. Praveshika
+	    1. Parichay
+	    1. Visharad
+	    1. Kovid
+	    1. Sahitya Pravin
+	    1. Sahitya Ratna
+	    1. Acharya
+
+    * The examinations Kovid, Sahitya Ratna and Acharya have been recognised as equivalent to S.S.C, B.A and M.A. respectively by the Governments of Gujarat, Karnataka, Maharashtra and Rajasthan. At present examinations up to Visharad only are being conducted. (B.S.V) Brahmarshi Sanskrit Vidyalaya.
+    * The Vidyalaya, situated at the campus of Swadhyay Mandal is for full-time students. It imparts intense coaching in Vyakaranam, Kavyam, Ganitam, Yoga, Physical training, Computer operations and Purohityam and prepares students for a rewarding career in life.
