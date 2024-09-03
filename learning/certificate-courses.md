@@ -108,3 +108,6 @@ sidebar_position: 2
 
     * #### Admission Process:
         Admission for these certificate courses is straightforward. Submit your application directly to the respective course coordinator, followed by an interview to assess your suitability.
+
+1. ### [Sanskrit Academy Courses](https://sanskritacademy.net/)
+    Sanskrit Academy is attached to Osmania University, Hyderabad and offers online courses in spoken Sanskrit including Deeksha I, II, III and IV, Bhagavadgitavargah (diploma course) and Sanksheparamayanam (level 3 certificate course). Diploma courses in Sahityam and Vyakaranam are also available, each lasting three months.
