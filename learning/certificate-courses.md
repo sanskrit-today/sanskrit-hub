@@ -93,3 +93,18 @@ sidebar_position: 2
 
     * The examinations Kovid, Sahitya Ratna and Acharya have been recognised as equivalent to S.S.C, B.A and M.A. respectively by the Governments of Gujarat, Karnataka, Maharashtra and Rajasthan. At present examinations up to Visharad only are being conducted. (B.S.V) Brahmarshi Sanskrit Vidyalaya.
     * The Vidyalaya, situated at the campus of Swadhyay Mandal is for full-time students. It imparts intense coaching in Vyakaranam, Kavyam, Ganitam, Yoga, Physical training, Computer operations and Purohityam and prepares students for a rewarding career in life.
+
+1. ### Certificate Courses at [Shri Lal Bahadur Shastri National Sanskrit University](http://www.slbsrsv.ac.in/)
+    * The Shri Lal Bahadur Shastri National Sanskrit University offers a variety of certificate courses designed to equip you with valuable skills and deepen your understanding in various fields. These self-financing courses go beyond traditional academic pursuits. They are specifically designed to address the needs of modern society, aligning with the university's core mission. The university also offers diploma and advanced diploma courses for those seeking further in-depth knowledge. These programs delve deeper into specialized subjects within the areas covered by the certificate courses.
+
+    * #### Course Options:
+        * **Jyotish Praveshika**: Gain an introduction to the ancient Indian science of Vedic Astrology.   
+        * **Vastushastra**: Learn the principles of traditional Hindu architecture and its impact on well-being.   
+        * **Yoga**: Enhance your physical and mental well-being through the practice of yoga.   
+        * **Paurohitya Prashikshan**: Understand the rituals and practices associated with Hindu ceremonies.   
+        * **Sanskrit Prashikshan Evam Sammbhashan**: Develop proficiency in speaking and comprehending Sanskrit, the ancient language of India.   
+        * **Sanskrit Vangmay**: Delve into the rich literary heritage of Sanskrit.   
+        * **Jain Vidya**: Explore the philosophy and traditions of Jainism.   
+
+    * #### Admission Process:
+        Admission for these certificate courses is straightforward. Submit your application directly to the respective course coordinator, followed by an interview to assess your suitability.
