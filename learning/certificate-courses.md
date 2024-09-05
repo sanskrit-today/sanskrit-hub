@@ -111,3 +111,16 @@ sidebar_position: 2
 
 1. ### [Sanskrit Academy Courses](https://sanskritacademy.net/)
     Sanskrit Academy is attached to Osmania University, Hyderabad and offers online courses in spoken Sanskrit including Deeksha I, II, III and IV, Bhagavadgitavargah (diploma course) and Sanksheparamayanam (level 3 certificate course). Diploma courses in Sahityam and Vyakaranam are also available, each lasting three months.
+
+1. ### [KKSU](www.kksu.org) - Kulaguru Kalidasa Sanskrit University Nagpur
+    The university has been named after the great poet and scholar. It is a general university with affiliated colleges. The KKSU Nagpur courses include Diploma, BA, MA, PGD, MPhil, etc. in subjects like Sanskrit, Vedic Studies, Yoga, Ayurveda, Astrology, Music, Dance etc. It has an ODL centre. Open and distance learning centre. The following are offered.
+    * Diploma in Sanskrit Agam
+    * Diploma in Sanskrit Journalism and Mass Communication
+    * Diploma in Yoga Application
+    * Certificate Course in Spoken Sanskrit
+    * Certificate Course in Sanskrit Writing
+    * Certificate Course in Jyotish
+    * Certificate Course in Vastushastra
+    * Certificate Course in Bhagvadgeeta
+    * Foundation Course in Spoken Sanskrit
+    * Foundation Course in Yoga Deeksha  
