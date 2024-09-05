@@ -123,4 +123,14 @@ sidebar_position: 2
     * Certificate Course in Vastushastra
     * Certificate Course in Bhagvadgeeta
     * Foundation Course in Spoken Sanskrit
-    * Foundation Course in Yoga Deeksha  
+    * Foundation Course in Yoga Deeksha
+
+1. ### University of Mumbai
+    * Certificate course in Sanskrit (offline)
+    * Diploma course in Sanskrit (offline)
+    * Diploma course in Manuscriptology (offline)      
+    * Diploma course in Bhakti Literature (online)                
+    * Certificate course in Prakrit (online)
+    * Diploma course in Bhagavadgeeta (online)
+
+    **Contact**: departmentofsanskrit@gmail.com
