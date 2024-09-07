@@ -38,6 +38,18 @@ sidebar_position: 1
     * While entering a shloka, provides info like the number of letters (अक्षर) in each line, the laghu/guru sequence and the split letters (अक्षर) sequence
     * If any Chanda is pre-selected, it will match the entered shloka against the selected Chanda and provide details like matching and non-matching letters
 
-1. ### [Sanskrit numerical tool](https://sankhya.streamlit.app/)
+1. ### Number Tools
 
-    A tool for converting numbers to Sanskrit words
+    1. #### [Sanskrit numerical tool](https://sankhya.streamlit.app/)
+
+        This tool converts the numbers into Sanskrit words. The student has to write number in box under Enter a number in digits. After doing so, an option is to be selected for joining Sanskrit words i.e., Adhik (अधिक) or Uttara (उत्तर). Also remember, select script Devanagari. Thereafter, press enter. It would convert digit in Sanskrit words. For example, 50505050 in पञ्चाशदधिकपञ्चसहस्राधिकपञ्चलक्षाधिकपञ्चकोटिः (if Adhik (अधिक) option selected) while 50505050 in पञ्चाशदुत्तरपञ्चसहस्रोत्तरपञ्चलक्षोत्तरपञ्चकोटिः (if Uttara (उत्तर) option selected). This number conversion includes Sandhi rules also. Then what is the wait just go and write number with website sankhya.streamlit.
+
+    1. #### [Sanskrit number game](https://barun.dev/samskrit-kreeda/sankhya/)
+
+        In this website, a game is developed wherein Sanskrit Numbers can be practiced. The student must put 10 numbers written in digits or in words in ascending or descending order. Once student gets succeed to put them in ascending or descending order, it rewards students with some number for doing the exercise
+
+1. #### [Computation tool](https://cl.sanskrit.du.ac.in/)
+
+    The Computational Linguistics Research and Development for Sanskrit at Department of Sanskrit, University of Delhi, Delhi has developed this tool. It provides tools for sandhi, subant, tidant etc.Link is given as under:
+
+
