@@ -135,14 +135,5 @@ sidebar_position: 2
 
     **Contact**: departmentofsanskrit@gmail.com
 
-1. ### [Sampurnanand Sanskrit Vishwavidyalaya, Varanasi](https://www.ssvv.ac.in/programs-offered)
-
-    More details on course specializations can be found in their website.
-   
-   * शास्त्री
-   * आचार्य
-   * विद्यावारिधि
-   
-    Contact : E-mail – vc.ssvv@gmail.com
 
 
