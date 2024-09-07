@@ -41,3 +41,24 @@ sidebar_position: 1
 1. ### [Sanskrit numerical tool](https://sankhya.streamlit.app/)
 
     A tool for converting numbers to Sanskrit words
+
+1. ### Number tools
+सङ्ख्याभ्यासः Sanskrit is divine language and it has various area or aspects for learning Sanskrit. Out of this, there is one area called Numbers. Mostly it is found that the Sanskrit learners are little weak or slow in learning numbers. But by way of continuously following and practicing with following tools  one can easily learn sanskirt numbers. 
+
+**1.	Sanskrit number game.**
+
+In this website, a game is developed wherein Sanskrit Numbers can be practiced. The student must put 10 numbers written in digits or in words in ascending or descending order. Once student gets succeed to put them in ascending or descending order, it rewards students some number for doing the exercise. Link is given as under:
+ 
+LINK : https://barun.dev/samskrit-kreeda/sankhya/
+
+**2.	Sanskrit numerical tool.**
+
+In this website, a tool is developed wherein numbers are converted to Sanskrit words. The student has to write number in box under Enter a number in digits. After doing so, an option is to be selected for joining Sanskrit words i.e., Adhik (अधिक) or Uttara (उत्तर). Also remember, select script Devanagari. Thereafter, press enter. It would convert digit in Sanskrit words. For example, 50505050 in पञ्चाशदधिकपञ्चसहस्राधिकपञ्चलक्षाधिकपञ्चकोटिः (if Adhik (अधिक) option selected) while 50505050 in पञ्चाशदुत्तरपञ्चसहस्रोत्तरपञ्चलक्षोत्तरपञ्चकोटिः (if Uttara (उत्तर) option selected). This number conversion includes Sandhi rules also. Then what is the wait just go and write number with website sankhya.streamlit.  Link is given as under:
+
+LINK : https://sankhya.streamlit.app/ 
+
+**3.	Computation tool**
+
+The Computational Linguistics Research and Development for Sanskrit at Department of Sanskrit, University of Delhi, Delhi has developed this tool. It provides tools for sandhi, subant, tidant etc.Link is given as under:
+
+https://cl.sanskrit.du.ac.in/
