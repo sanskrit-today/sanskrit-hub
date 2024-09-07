@@ -48,7 +48,7 @@ sidebar_position: 1
 
         In this website, a game is developed wherein Sanskrit Numbers can be practiced. The student must put 10 numbers written in digits or in words in ascending or descending order. Once student gets succeed to put them in ascending or descending order, it rewards students with some number for doing the exercise
 
-1. #### [Computation tool](https://cl.sanskrit.du.ac.in/)
+1. ### [Computation tool](https://cl.sanskrit.du.ac.in/)
 
     The Computational Linguistics Research and Development for Sanskrit at Department of Sanskrit, University of Delhi, Delhi has developed this tool. It provides tools for sandhi, subant, tidant etc.Link is given as under:
 
