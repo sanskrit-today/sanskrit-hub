@@ -46,7 +46,7 @@ They provide courses Under Graduate/ Post Graduate / Diploma Programmes. It cove
     *Ayurveda
 They also publish their ePatrika regularly.
 
-1. ### [The Sanskrit College and University] (https://sanskritcollegeanduniversity.ac.in)
+1. ### [The Sanskrit College and University](https://sanskritcollegeanduniversity.ac.in)
     (Estd. vide West Bengal Act XXXIII of 2015)
 
     About the Sanskrit College and University On the 1st of January, 1824, Sanskrit College, Calcutta, started its journey as one of the premier institutions of oriental learning in colonial India. The present college building was inaugurated on the 25th of February 1824. Pandit Ishwarchandra Vidyasagar became the Principal of the Sanskrit College in 1851. The transformation of The Sanskrit College into the present Sanskrit College and University was done by the Government of West Bengal vide the Legislative Act XXXIII of 2015 and it became functional on 15th June, 2016.
