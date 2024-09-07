@@ -135,50 +135,14 @@ sidebar_position: 2
 
     **Contact**: departmentofsanskrit@gmail.com
 
-1. ### https://www.ssvv.ac.in/programs-offered programs offerd by Sampurnanand Sanskrit Vishwavidyalaya, Varanasi
-   शास्त्री
-   आचार्य
-   विद्यावारिधि
-   ऋग्वेद		 
-   शुक्लयजुर्वेद	
-   कृष्णयजुर्वेद	
-   सामवेद	
-   अथर्ववेद	
-   वेदनैरूक्तप्रक्रिया	
-   पौरोहित्य	
-   नव्यव्याकरण	
-   प्राचीनव्याकरण	
-   गणित
-   फलितज्यौतिष
-   सिद्धान्तज्यौतिष	
-   धर्मशास्त्र	
-   साहित्य	
-   पुराणेतिहास	
-   प्राचीनराजशास्त्रार्थशास्त्र	
-   प्राचीनन्यायवैशेषिक	
-   नव्यन्याय	
-   पूर्वमीमांसा	
-   शांकरवेदान्त	
-   रामानुजवेदान्त	
-   मध्ववेदान्त	
-   निम्बार्कवेदान्त	
-   गौडीयवेदान्त	
-   बल्लभवेदान्त	
-   रामानन्दवेदान्त	
-   शक्तिविशिष्टाद्वैतवेदान्त	
-   दर्शन	
-   तुलनात्मकधर्म	
-   तुलनात्मकदर्शन	
-   सांख्ययोग	
-   आगम
-   योगतन्त्र	
-   बौद्धदर्शन	
-   जैनदर्शन	
-   प्राकृत एवं जैनागम	
-   पालि	
-   संस्कृतविद्या	
-   भाषाविज्ञान
+1. ### [Sampurnanand Sanskrit Vishwavidyalaya, Varanasi](https://www.ssvv.ac.in/programs-offered)
+
+    More details on course specializations can be found in their website.
    
-   >>Contact : E-mail – vc.ssvv@gmail.com
+   * शास्त्री
+   * आचार्य
+   * विद्यावारिधि
+   
+    Contact : E-mail – vc.ssvv@gmail.com
 
 
