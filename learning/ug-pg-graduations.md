@@ -115,3 +115,55 @@ They provide courses Under Graduate/ Post Graduate / Diploma Programmes. It cove
    
     Contact : E-mail – vc.ssvv@gmail.com
 
+1. ### [Sri Venkateswara Vedic University](https://svvedicuniversity.ac.in/)
+
+   The University offers BA, MA
+    * Faculty of Veda Adhyayana [Rigveda, Krishna Yajurveda, Suklayajurveda, Samaveda (Ranayaniya), Atharvaveda (Saunaka)]
+    * Faculty of Agama Adhyayana [Vaikhanasagama, Pancharathragama, Saivagama]
+    * Faculty of Paurohitya Adhyayana [Asvalayana Paurohitya, Apastambiya Paurohitya, Vaikhanasa Paurohitya, Paraskara Paurohitya]
+    * Faculty of Vedabhashya [Rigvedabhashya, Krishnayajurveda Bhashya, Suklayajurvedabhashya (Kanva), Suklayajurvedabhashya (Madhyandina), Samavedabhashya, Atharvavedabhashya]
+    * Faculty of Vedaangas [Kalpa, Nirukta, Purvamimamsa, Yoga]
+    * Faculty of Research & Publication
+    * Faculty of Modern Subjects [English & Computer Science]
+
+1. ### [Shri Lal Bahadur Shastri Rashtriya Sanskrit Vidyapeetha, Delhi](https://www.slbsrsv.ac.in/)
+
+   Offers BA, BEd, MA. Shastri & Shastri Sammanita, Shiksha-Shastri, Acharya, Shiksha Acharya and Vidya Varidhi
+
+1. ### [Shri Jagannath Sanskrit Vishvavidyalaya](https://sjsv.nic.in/)
+
+    Offers: BA, BA (Hons), MA, BEd, Diploma
+
+    The University has the following Departments: Dharmasastra, Nyaya, Sahitya, Sarvadarshan, Veda, Vyakaran, Advaita Vedanta, Jyotirvigyan, Physical Education, Computer Application, and Siksha Shastri
+
+1. ### [Shree Somnath Sanskrit University, Gujarat](https://sssu.ac.in/)
+
+    Offers: BA, BEd, MA, Diploma, PG Diploma
+
+    Sahitya, Jyoti? Vastu shastra, Veda, Vyakara? Navya Vyakara? Ramanuja Vedanta, Swaminarayan?a Vedanta, Sarva Daraana, Navya Nyaya, Dharmasastra, Pura? Asastra, Paurohityam and Yoga
+
+1. ### [Shree Sankaracharya University of Sanskrit, Ernakulum](https://ssus.ac.in/)
+
+    Offers:
+    * UG Programmes: BA, BFA, BEd
+    * PG Programmes: MA, MSc, MSW
+    * Doctoral: MPhil & PhD
+    * Others: Diploma, PG Diploma, Certificate
+  
+    Language courses, Comparative Literature and Linguistics, Theatre, Music, Dance, Philosophy, Psychology, Vedic Studies, Gender Ecology and Dalit Studies, Bachelor of Fine Arts, Manuscriptology and Translation Studies
+
+1. ### [Sampurnanand Sanskrit Vishwavidyalaya, Varanasi](https://www.ssvv.ac.in/)
+
+    Offers: BA, BEd, MA, MEd, Diploma, PG Diploma
+
+    The University has the following departments: Veda, Dharma Shastra, Jyotisha, Vyakarana, Puranetihasa, Sahitya, Rajashastra-Arthashastra, Nyaya-Vaisheshika, Vedanta, Mimamsa, Comparative Religion & Philosophy, Sankhya-Yoga-Tantragama, Baudha Darshana, Jaina Darshana, Prakrita and Jainagama, Pali and Theravada, Sanskrit Vidya, Modern Languages and Linguistics, Social Sciences, Education, Science, Library Science, Physical Education and Sports
+
+1. ### [Rashtriya Sanskrit Vidyapeetha, Tirupati](http://www.rsvidyapeetha.ac.in/)
+
+    Offers: BA, BEd, MA, MEd, MPhil, PhD, Diploma
+
+    Specializations: Sahitya, Vyakarana, Jyotisha, Nyaya, Advaita Vedanta, Vishistadvaita Vedanta, lDvaita Vedanta, Agama, Mimamsa, Sankhya Yoga, Siksha Sastri, Siksha Achary
+
+1. ### [Maharshi Panini Sanskrit Evam Vedic University, Ujjain](https://www.mpsvv.ac.in/index.php/en/)
+
+    Offers: BA, MA, Diploma
