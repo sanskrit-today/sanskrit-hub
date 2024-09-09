@@ -1,6 +1,6 @@
 ---
 sidebar_label: Books
-sidebar_position: 5
+sidebar_position: 6
 ---
 
 # List of Books
