@@ -12,9 +12,26 @@ sidebar_position: 3
     * BA - Shastri (two years)
   
 1. ### [KKSU](https://www.kksu.org) - Kulaguru Kalidasa Sanskrit University Nagpur
+
     The university has been named after the great poet and scholar. It is a general university with affiliated colleges. The KKSU Nagpur courses include Diploma, BA, MA, PGD, MPhil, etc. in subjects like Sanskrit, Vedic Studies, Yoga, Ayurveda, Astrology, Music, Dance etc. It has an ODL centre. Open and distance learning centre. The following are offered.
-    * MA Sanskrit
-    * MA Yoga
+
+    Offers: BA, MA, MPhil, Diploma, PG Diploma
+
+    * BA in Sanskrit, Additional Sanskrit, Pali, Vedanga Jyotish, Vedic Studies, Yogashastra, Civil Services, Professional (Vyavasaik), Keertanshastra, Travel and Tourism, Yoga, Naturopathy and Dietetics, Fine Arts and BEd.
+
+    * MA in Sanskrit, Keertanshastra, Yogashastra, Vedanga Jyotish, Fine Arts and MPhil Sanskrit.
+
+    * PG Diploma in Computer Application, Vedanta and Sanskrutam, Buddhist Studies, Teaching Sanskrit through English, Yogic Sciences, Appreciation of Indian Art and Environmental Management.
+
+    * Diploma in Dance,  Sanskrit Agam, Sanskrit Sadhana, Sanskrit Parichaya, Prakrit, Purana, Jainology, Ayurved, Ecology, Yogashastra, Pali, German Language, Vastushastra, Vedanga Jyotish, Ramayan and Mahabharat, Indian Culture and Values, Music, Upanishads, Yoga, Naturopathy and Dietetics, Functional Sanskrit and Indology.
+
+    * Higher Diploma in Dance
+
+    * Certificate Course in Vedic Studies, Dance (Bharatnatyam), Gita, Kathak and Organic Farming.
+
+    * Junior Diploma in Dance (Bharatnatyam), Folk Dance, Vedic Studies, Gita, Keertanshastra, Bhajan and Kathak.
+
+    * Senior Diploma in Keertanshastra, Vedic Studies, Dance (Bharatnatyam), Gita and Kathak.
 
 1. ### University of Mumbai
     **Regular Courses**
@@ -29,6 +46,17 @@ sidebar_position: 3
     * M. A. in Classical Sanskrit Literature
 
     **Contact**: departmentofsanskrit@gmail.com
+
+1. ### [Karnataka Samskrit University](https://ksu.ac.in/index.php/academics/ug_programs)
+
+    The University offers the below mentioned Traditional Under Graduate Programmes:
+
+    * B.A in Samskrita Language & Literature,
+    * B.A in Shastra
+    * B.Sc in Yogic Science and Counselling
+   
+    Other programmes leading to Certificate courses, Diploma, P.G.Diploma, and Research degrees are also offered under various Departments.
+Karnataka Samskrit University has implemented New Education Policy (NEP) from the academic year 2021-2022
 
 1. ### [The Maharshi Valmiki Sanskrit University, Kaithal (Kapisthalam) (MVSU), Haryana](https://mvsu.ac.in/) 
     The Maharshi Valmiki Sanskrit University, Kaithal (Kapisthalam) (MVSU), Haryana is a State University established in 2018 by the Government of Haryana. It is situated 130 km from the state capital Chandigarh, 164 km from the national capital, New Delhi, 30 kms from Pahowa and 45 kms from Kurukshetra. The university currently is operating from its two temporary campuses: (1) at Dr. B.R. Ambedkar Govt. College, Kaithal and (2) Teek-10 km far from Kaithal on Kaithal Dhand road. The construction work of its own campus is in progress at Mundri village (Kaithal). This university is named after the Hindu sage “Maharshi Valmiki” who was the composer of the “Ramayana” and who is also known as the “Adi- Kavi” of the “Sanskrit” language. It is believed that Maharshi Valmiki Ashram was situated in Mundri village. The objective of the university is to revive “Sanskrit” and its wealthy wisdom through “Sanskrit” teaching and research, in addition, to bring back the glory of Vedas, Indic languages, Indian culture, history, and Indian philosophy on the platform of the modern world.
@@ -185,3 +213,23 @@ They provide courses Under Graduate/ Post Graduate / Diploma Programmes. It cove
     * Diploma: Modern MOM- Office Management, Dress Designing and Manufacturing, HCBC-Health Care and Beauty Culture, Finance, Marketing, Human Resource Management, Accounts and Auditing.
 
     * Distance Education Course:  BA, BCom, BCA, Bachelor of Social Work (BSW), BPP, Certificate in Computing and Post Graduate Diploma in Audio Programme Production (PGDAPP).
+
+1. ### [Jagadguru Ramanandacharya Rajasthan Sanskrit University, Jaipur](http://www.jrrsanskrituniversity.ac.in/)
+
+    Offers: BA, MA, BEd, PG Diploma, PhD
+
+    Shastri, Acharya, Shiksha Shastri, Shiksha Acharya, Sanyuktacharya (integrated), Yog Vigyan Shashtri, Yog vigyan Acharya, Vidyanidhi, Vidyavaridhi (equivalent to PhD), Vidyavachaspati, Certificate/Diploma in Jyotish Shastra and Certificate/Diploma in Vastu Shastra.
+
+1. ### [Kameshwar Singh Darbhanga Sanskrit University, Darbhanga](https://www.ksdsu.edu.in/home.htm)
+
+    Offers: BA, BEd, MA, PhD
+
+    Uphastri, Shastri (Pass), Shastri (Pratushtha), Siksha Shastra (BEd), Acharya (Vyakarana), Acharya (Sahitya), Acharya (Veda), Acharya (Jyotish), Acharya (Darshan), Acharya (Dharmashastra), Acharya (Fine Art and Music), Vidyavaridhi, Vidyavachaspati and PhD in Vyakarana, Sahitya, Veda, Ganit and Palit Jyotish, Darshan, Dharmashastra, and Ayurveda
+
+1. ### [Kumar Bhaskar Varma Sanskrit and Ancient Stu dies University, Nalbari, Assam](https://kbvsasun.ac.in/)
+
+    Offers: MA, MPhil, PhD
+	
+    PG courses in Sanskrit Studies, Ancient Studies and Humanities.
+
+    MPhil/PhD courses in Language Studies, Culture Studies, Religion Studies and Scientific Literature Studies.
