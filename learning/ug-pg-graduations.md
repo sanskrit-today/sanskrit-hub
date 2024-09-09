@@ -233,3 +233,18 @@ They provide courses Under Graduate/ Post Graduate / Diploma Programmes. It cove
     PG courses in Sanskrit Studies, Ancient Studies and Humanities.
 
     MPhil/PhD courses in Language Studies, Culture Studies, Religion Studies and Scientific Literature Studies.
+
+1. ### [Savitri Bai Phule Pune University](http://www.unipune.ac.in/)
+
+    The Centre of Advanced Study in Sanskrit (CASS) was established in 1964 as an independent research oriented Department in the University of Pune for training scholars and promoting higher studies in Sanskrit learning.
+
+    Initially the Centre was provided with the infrastructure for higher research in Veda and Vyakarana. In 1974 the facilities for the advanced training and research in Nyaya (Indian Logic) and Mimamsa (Science of Textual Interpretation) were added. This is the first and oldest UGC Centre of Advanced Study in Sanskrit in the whole country.
+
+    Courses Offered
+    * M.A. Translation : Theory and Application
+    * M.A. in Indian Lagic and Epestemology
+    * M.A. in Sanskrit Linguistics
+    * Diploma in Indian Lagic and Epestemology
+    * Diploma in Sanskrit Linguistics
+    * Certificate Course in Manuscriptology
+    * Diploma in Manuscriptology
