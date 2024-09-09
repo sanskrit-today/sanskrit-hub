@@ -226,7 +226,7 @@ They provide courses Under Graduate/ Post Graduate / Diploma Programmes. It cove
 
     Uphastri, Shastri (Pass), Shastri (Pratushtha), Siksha Shastra (BEd), Acharya (Vyakarana), Acharya (Sahitya), Acharya (Veda), Acharya (Jyotish), Acharya (Darshan), Acharya (Dharmashastra), Acharya (Fine Art and Music), Vidyavaridhi, Vidyavachaspati and PhD in Vyakarana, Sahitya, Veda, Ganit and Palit Jyotish, Darshan, Dharmashastra, and Ayurveda
 
-1. ### [Kumar Bhaskar Varma Sanskrit and Ancient Stu dies University, Nalbari, Assam](https://kbvsasun.ac.in/)
+1. ### [Kumar Bhaskar Varma Sanskrit and Ancient Studies University, Nalbari, Assam](https://kbvsasun.ac.in/)
 
     Offers: MA, MPhil, PhD
 	
