@@ -205,7 +205,7 @@ sidebar_position: 2
 
     **Contact**: departmentofsanskrit@gmail.com
 
- 1. ### [IIT-Hyderabad Sanskrit Programmes](csucsl.samarth.edu.in)
+ 1. ### [IIT-Hyderabad Sanskrit Programmes](https://csucsl.samarth.edu.in)
 
     These courses will be conducted in a hybrid mode, offering both online and offline learning options
 
