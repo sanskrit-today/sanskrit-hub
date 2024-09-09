@@ -205,3 +205,12 @@ sidebar_position: 2
 
     **Contact**: departmentofsanskrit@gmail.com
 
+ 1. ### [IIT-Hyderabad Sanskrit Programmes](csucsl.samarth.edu.in)
+
+    These courses will be conducted in a hybrid mode, offering both online and offline learning options
+
+    The Department of Heritage Science and Technology at IIT-Hyderabad, in collaboration with Central Sanskrit University (CSU), has introduced certificate and diploma courses in Sanskrit. These courses will be conducted in a hybrid mode, offering both online and offline learning options. The application process began on August 29 and will remain open until September 20, 2024. Classes are scheduled to run until May 15, 2025. The diploma course requires completion of the certificate program. The eligibility for the certificate course is a 10th-grade pass and a minimum age of 15. Interested candidates can apply via the official website, csucsl.samarth.edu.in.
+
+    Students enrolling in these programmes will receive a set of five books from CSU. The course aims to develop proficiency in speaking, reading, and writing in Sanskrit, along with an understanding of shlokas, songs, stotras, and scientific and literary concepts in Sanskrit.
+
+    The admission fee for the course is Rs 1,200, with an additional Rs 300 exam fee to be paid at the time of the examination. Class schedules will be announced by IIT-Hyderabad, based on learners' convenience.
