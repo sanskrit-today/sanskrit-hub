@@ -1,4 +1,5 @@
 ---
+sidebar_label: Universities
 sidebar_position: 6
 ---
 
