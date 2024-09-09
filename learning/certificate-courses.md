@@ -135,5 +135,94 @@ sidebar_position: 2
 
     **Contact**: departmentofsanskrit@gmail.com
 
+    [Mukta Swadhyaya Peetham (MSP)](https://msp.ac.in) 
+Mukta Swadhyaya Peetham (MSP) is the Distance Education Institution of Central Sanskrit University. It promotes Sanskrit & Shastric learning through Online & Open Distance Education. शैक्षिकविकासकेन्द्रम् (Academic Development Centre) of MSP was established at R.G. Campus, Sringeri for undertaking activities related to programme development.
+Categories:
 
+1. अवतरणी - Avatarani
+	अवतरणी (Certificate Programmes)
+1. अवगाहनी - Avagahani
+	अवगाहनी (Advanced Certificate)
+1. दक्षता - Dakshatha
+	दक्षता (Diploma)
+1. प्रवीणः - Praveena
+	(Advanced Diploma)
+1. विशारदः - Visharada
+	(Proficiency Diploma)
+1. प्राक्-शास्त्री - Prak-Shastri
+	(Intermediate Programmes)
+1. शास्त्री - Shastri
+	(Graduate Programmes)
+1. आचार्यः - Acarya
+	(Masters Programmes)
+
+Subjects
+
+    संस्कृतभाषा (Sanskrit Language) (P-01 to P-07)
+P001-संस्कृतभाषावतरणी
+P002-संस्कृतभाषावगाहनी
+P003-संस्कृतभाषादक्षता
+P004-संस्कृतभाषाप्रवीणः
+P005-संस्कृतभाषाविशारदः
+P006-सरलमानकसंस्कृतम्
+P007-प्राक्-शास्त्री
+	
+    व्याकरणम् (Grammar) (P-11 to P-15) , P-41, P-44
+P011-व्याकरणशास्त्रावतरणी
+P012-व्याकरणशास्त्रावगाहनी
+P013-व्याकरणशास्त्रदक्षता
+P014-व्याकरणशास्त्रप्रवीणः
+P015-व्याकरणशास्त्रविशारदः
+P041-शास्त्री (व्याकरणशास्त्रम्)
+P044-आचार्यः (व्याकरणशास्त्रम्)
+
+    साहित्यम् (Sāhityam) (P-23 to P-27) , P-42, P-45
+P023-साहित्यशास्त्रावतरणी
+P024-साहित्यशास्त्रावगाहनी
+P025-साहित्यशास्त्रदक्षता
+P026-साहित्यशास्त्रप्रवीणः
+P027-साहित्यशास्त्रविशारदः
+P042-शास्त्री (साहित्यम्)
+P045-आचार्यः (साहित्यम्)
+
+    काव्यानि (Kāvyāni) (P-08 to P-10)
+P008-काव्यातरणी
+P009-काव्यागाहनी
+P010-काव्यदक्षता
+
+    दर्शनम् (Philosophy) (P-28)
+P028-दर्शनावतरणी
+
+    ज्यौतिषम् (Astrology) (P-16 to P-20), P-46
+P016-ज्यौतिषशास्त्रावतरणी
+P017-ज्यौतिषशास्त्रावगाहनी
+P018-ज्यौतिषशास्त्रदक्षता
+P019-ज्यौतिषशास्त्रप्रवीणः
+P020-ज्यौतिषशास्त्रविशारदः
+P046-आचार्यः (फलितज्यौतिषशास्त्रम्)
+
+    वास्तु (Indian Architecture) (P-21 to P-22)
+P021-वास्तुशास्त्रावतरणी
+P022-वास्तुशास्त्रावगाहनी
+
+    नैतिकशिक्षणम् (Value Education Programmes) (P-31 to P-35)
+P031-नैतिकशिक्षणम् -1 बालविकासः
+P032-नैतिकशिक्षणम् –2 बोधविकासः
+P033-नैतिकशिक्षणम् –3 मनोविकासः
+P034-नैतिकशिक्षणम् –4 ज्ञानविकासः
+P035-नैतिकशिक्षणम् 
+
+    प्रज्ञाविकासः पत्रकारिता (Journalism) (P-36)
+P036-संस्कृतपत्रकारिता-प्रमाणपत्रपाठ्यक्रमः
+
+    भारतीयज्ञानपरम्परा (IKS) (P-29)
+P029-भारतीयज्ञानपरम्परावतरणी 
+
+    पालि (Pāli) (P-37 , P-39)
+P037-पालि-परिचयपाठ्यक्रमः
+P039-पालि-प्रमाणपत्रीयपाठ्यक्रमः
+
+    प्राकृत (Prākṛta) (P-38 & P-40)
+P038-प्राकृत-परिचयपाठ्यक्रमः
+P040-प्राकृत-प्रमाणपत्रीयपाठ्यक्रमः
 
