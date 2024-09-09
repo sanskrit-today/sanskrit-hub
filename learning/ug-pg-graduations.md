@@ -250,33 +250,24 @@ They provide courses Under Graduate/ Post Graduate / Diploma Programmes. It cove
     * Diploma in Manuscriptology
 
 
-1.	### The University of Jammu
+1. ### [The University of Jammu](https://jammuuniversity.ac.in/index.php/sanskrit/programmes)
 
-https://jammuuniversity.ac.in/index.php/sanskrit/programmes
+    The University of Jammu strives to achieve world-class excellence in teaching, research and knowledge transfer and making valuable contributions to the socioeconomic development of the region and country. It has a Department of Sanskrit through which it provides various courses.
 
-The University of Jammu strives for Achieving world-class excellence in teaching, research and knowledge transfer and making valuable contributions to the socioeconomic development of the region and country.
+    **Master's Degree & PH (d) Programme in Sanskrit.**
 
-It has a Department of Sanskrit through which it provides various courses.
+    A Study of Sanskrit Drama and Dramaturgy, Grammar and Translation, Indian Poetics, Indian Philosophy, Vedic Literature, A Study in Sanskrit Prose and Poetry, Ancient Indian Palaeography and Epigraphy, Linguistics, Vedic Literature, Dharmashastra and Arthashastra, Study of Mauryan and Post Mauryan Prakrit Inscriptions, Study of Pre-Gupta Inscriptions, Kavyashastra, Sanskrit Rupaka, Study in KashmirShaivism, Study of Philosophical Texts, Phonetics and Phonology, An outline of structure of Sanskrit.
 
-**Master Degree & PH (d) Programme in Sanskrit.**
+    Also, Demonstrate   the various types of Sanskrit Shastras.  Explain the  Shastra literature in Astrology, astronomy, Mathematics,  Chemistry, Physics, architecture, Ayurved, Yogshastra, Sangeetshastra etc. Examine the relationship between ancient and modern sciences. 
 
-A Study of Sanskrit Drama and Dramaturgy, Grammar and Translation, Indian Poetics, Indian Philosophy, Vedic Literature, A Study in Sanskrit Prose and Poetry, Ancient Indian Palaeography and Epigraphy, Linguistics, Vedic Literature, Dharmashastra and Arthashastra, Study of Mauryan and Post Mauryan Prakrit Inscriptions, Study of Pre-Gupta Inscriptions, Kavyashastra, Sanskrit Rupaka, Study in KashmirShaivism, Study of Philosophical Texts, Phonetics and Phonology, An outline of structure of Sanskrit.
+1. ### [University of Kashmir](https://sanskrit.uok.edu.in/Main/Default.aspx)
 
-AlsoDemonstrate   the various types of Sanskrit Shastras.  Explain the  Shastra literature in Astrology , astronomy, Mathematics ,  Chemistry, Physics, architecture , Ayurved , Yogshastra , Sangeetshastra ect.Examine the relationship between ancient and modern sciences. 
+    The Department of Sanskrit, University of Kashmir, Srinagar is one of the oldest departments of School of Languages and Literatures, established in 1983. It has a Department of Sanskrit through which it provides various courses.
 
+    * **Masters of Sanskrit 	2 years**
 
-1. ### University of Kashmir
+    * **UG.Certificate Course in Sanskrit 	One year**
 
-https://sanskrit.uok.edu.in/Main/Default.aspx
+    * **PG Diploma Course in Sanskrit 	One year**
 
-The Department of Sanskrit, University of Kashmir, Srinagar is one of the oldest department of School of Languages and Literatures, established in 1983.
-
-It has a Department of Sanskrit through which it provides various courses.
-
-**Masters of Sanskrit 	2 years**
-
-**UG.Certificate Course in Sanskrit 	One year**
-
-**PG Diploma Course in Sanskrit 	One year**
-
-**M.Phil/Ph.D. Progamme in Sanskrit  Three years**
+    * **M.Phil/Ph.D. Progamme in Sanskrit  Three years**
