@@ -167,3 +167,21 @@ They provide courses Under Graduate/ Post Graduate / Diploma Programmes. It cove
 1. ### [Maharshi Panini Sanskrit Evam Vedic University, Ujjain](https://www.mpsvv.ac.in/index.php/en/)
 
     Offers: BA, MA, Diploma
+
+1. ### [Maharishi Mahesh Yogi Vedic Vishwavidyalaya](https://mmyvvdde.com/)
+
+    Offers:
+    * UG Programmes: BA, BCom, BCA, BSW
+    * PG Programmes: MA, MBA, MSc
+    * Doctoral: MPhil & PhD
+    * Others: Diploma & Certificate
+  
+    * Full-Time Vedic Courses: PhD, Acharya-Masters (2 yrs), Shastri-Graduate (3 yrs), and Praman Patra-Certificate (1 yr) IN Jyotish, Sthapatya Ved (Vastu Shastra), Yog, Darshan, Maharishi Ved Vigyan, Maharishi Vedic Swasthya Vidhan and Vyakaran.
+
+    * PG Courses: MSc (CS), MBA , MA (Education).
+
+    * Degree Courses: BCA, BSC(CS), BBA, BCom and BA.
+
+    * Diploma: Modern MOM- Office Management, Dress Designing and Manufacturing, HCBC-Health Care and Beauty Culture, Finance, Marketing, Human Resource Management, Accounts and Auditing.
+
+    * Distance Education Course:  BA, BCom, BCA, Bachelor of Social Work (BSW), BPP, Certificate in Computing and Post Graduate Diploma in Audio Programme Production (PGDAPP).
