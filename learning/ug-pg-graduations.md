@@ -248,3 +248,35 @@ They provide courses Under Graduate/ Post Graduate / Diploma Programmes. It cove
     * Diploma in Sanskrit Linguistics
     * Certificate Course in Manuscriptology
     * Diploma in Manuscriptology
+
+
+1.	### The University of Jammu
+
+https://jammuuniversity.ac.in/index.php/sanskrit/programmes
+
+The University of Jammu strives for Achieving world-class excellence in teaching, research and knowledge transfer and making valuable contributions to the socioeconomic development of the region and country.
+
+It has a Department of Sanskrit through which it provides various courses.
+
+**Master Degree & PH (d) Programme in Sanskrit.**
+
+A Study of Sanskrit Drama and Dramaturgy, Grammar and Translation, Indian Poetics, Indian Philosophy, Vedic Literature, A Study in Sanskrit Prose and Poetry, Ancient Indian Palaeography and Epigraphy, Linguistics, Vedic Literature, Dharmashastra and Arthashastra, Study of Mauryan and Post Mauryan Prakrit Inscriptions, Study of Pre-Gupta Inscriptions, Kavyashastra, Sanskrit Rupaka, Study in KashmirShaivism, Study of Philosophical Texts, Phonetics and Phonology, An outline of structure of Sanskrit.
+
+AlsoDemonstrate   the various types of Sanskrit Shastras.  Explain the  Shastra literature in Astrology , astronomy, Mathematics ,  Chemistry, Physics, architecture , Ayurved , Yogshastra , Sangeetshastra ect.Examine the relationship between ancient and modern sciences. 
+
+
+1. ### University of Kashmir
+
+https://sanskrit.uok.edu.in/Main/Default.aspx
+
+The Department of Sanskrit, University of Kashmir, Srinagar is one of the oldest department of School of Languages and Literatures, established in 1983.
+
+It has a Department of Sanskrit through which it provides various courses.
+
+**Masters of Sanskrit 	2 years**
+
+**UG.Certificate Course in Sanskrit 	One year**
+
+**PG Diploma Course in Sanskrit 	One year**
+
+**M.Phil/Ph.D. Progamme in Sanskrit  Three years**
