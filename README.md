@@ -1,6 +1,6 @@
 # Sanskrit Resources Hub Data Repository
 
-This repository is the central hub for storing and managing data powering the website Sanskrit Resources Hub (hub.sanskrit.today).
+This repository is the central hub for storing and managing data powering the website Sanskrit Resources Hub ([hub.sanskrit.today](https://hub.sanskrit.today)).
 
 Here, you'll find the website's data in a well-organized and accessible format, ensuring its integrity and facilitating easy updates.
 
