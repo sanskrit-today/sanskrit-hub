@@ -303,3 +303,34 @@ They provide courses Under Graduate/ Post Graduate / Diploma Programmes. It cove
         * Siddhāntakaumudī-1 – (Saṃjñā, Paribhāṣā, Pañcasandhi, Kāraka) for those who have already studied Laghukaumudī at least in part.
     * Duration of each Course: One Year (Two semesters with an exam after every six months)
 
+1. ### [Punjab University](https://sanskrit.puchd.ac.in/show-courses.php)
+
+    It is established in 1882. It has a Department of Sanskrit through which it provides Sanskrit courses.
+
+    *	The Course:	Certificate Course in Upanishads and Gita**
+    *	Duration:	1 years 12 months**
+    *	Eligibility:	10+2, Prak-Shastri /Visharad/Inter/ or equivalent**
+
+    Purpose: The detailed student interpretation of the philosophy of life in Upanishadic literature. Making people aware of the truth with the study of original texts of Upanishads and Gita. Introduction to the Indian lifestyle, human values, ideal teachings and ethics. To make students understand the knowledge of Indian tradition. The study of Upanishads and Gita are essential for preserving the cultural identity of india in the age of Globilization.
+
+    *	The Course:	Doctor of Philosophy in Sanskrit**
+    *	Duration:	3 years**
+    *	Eligibility:	NET/JRF/PU entrance**
+
+    Purpose: Updation of existing research through revision and analysis keeping in view newer inputs. Revelation of hidden treasure residing in unpublished manuscripts. A synthesis of contemporary research methodology and śāstraic methodology brings about a positive change in the research scholars. Contribution to other fields like linguistics, ancient Indian history, ancient Indian archeology, etc. through researches on primary texts, both published and unpublished.
+
+    *	The Course:	M.A. (Sanskrit)
+    *	Duration:	2 years 24 months
+    *   Eligibility:	Bachelor’s Degree obtaining 45% marks in Subject of Post Graduate OR A Bachelor’s Degree obtaining 50% marks in aggregate provided the candidate has passed Sanskrit as an elective or literature subject OR B.A. with (Hons.) in Sanskrit etc.
+
+    Purpose: Knowledge of Sanskrit Language, its grammar and its place in linguistics. Knowledge of interconnections of various Indic and European languages. Acquaintance with Indian Knowledge system of Sastras and their methodology, where a great emphasis is laid on discussion and debate. Firsthand knowledge of ancient Indian culture via studying of primary texts. Specialization in Sahitya, Darshan. Encouraging the tradition of spoken Sanskrit by organizing Sanskrit speaking workshops. Impress upon the need
+of reviving Sanskrit as a language of communication.
+
+
+1. ### [Kanya Maha Vidyalaya](https://www.kmvjalandhar.ac.in/subjects/sanskrit/)
+
+    KMV- The First & Only Women College in  Punjab with AUTONOMOUS STATUS by UGC, MHRD, Govt. of India. Department of Sanskrit established since 1886 offer undergraduate Ph.D in collaboration. Department of Sanskrit is the only Department in Punjab and Haryana to introduce Computational Sanskrit in Under Graduate Classes.
+
+    **Courses**
+    * 	B.A (Elective Sanskrit)
+    * 	Computational Sanskrit
