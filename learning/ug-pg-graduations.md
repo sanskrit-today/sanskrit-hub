@@ -328,3 +328,16 @@ They provide courses Under Graduate/ Post Graduate / Diploma Programmes. It cove
 
 
      Note: This University offers certificate courses also. For details please check 'Certified Courses' page.
+  
+1. ### Departmant of Sanskrit & Philosophy [Ramkrishna Mission Vivekananda Educational and Research Institute](https://sanskrit.rkmvu.ac.in)
+
+    * Dept. of Sanskrit & Philosophy introduces a new online programme – “MA in Sanskrit Online Programme”.
+      Programme Code – BMASOL, Eligibility to apply: 55% in BA Honours in Sanskrit (3 years)
+    * 5 Year integrated MA in Sanskrit
+    * PhD Programme in Sanskrit
+    * Communicative Sanskrit Programme
+    * Pāṇinīya-praveśa, Currently two Certificate courses are being offered under this Outreach programme
+        * Laghusiddhāntakaumudī-1 – (Saṃjñā, Sandhi, Kāraka, Samāsa) for beginners
+        * Siddhāntakaumudī-1 – (Saṃjñā, Paribhāṣā, Pañcasandhi, Kāraka) for those who have already studied Laghukaumudī at least in part.
+    * Duration of each Course: One Year (Two semesters with an exam after every six months)
+
