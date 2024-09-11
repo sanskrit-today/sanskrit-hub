@@ -334,3 +334,15 @@ of reviving Sanskrit as a language of communication.
     **Courses**
     * 	B.A (Elective Sanskrit)
     * 	Computational Sanskrit
+
+1. ### [Somaiya Vidhyavihar University](https://kjsids.somaiya.edu) - Mumbai K J Somaiya Institute of Dharma Studies 
+
+    * M.A. Sanskrit, (This programme will be conducted in offline mode.)
+
+    Duration - 2 Years, Course Type - Masters, Mode of Study - Full Time
+    
+    This programme is designed for those who have basic knowledge of Sanskrit language and who want to pursue higher studies in Sanskrit.
+
+    In the first year, students pursue the study of Sanskrit at a higher level of proficiency and are introduced to various genres of literature. Students get opportunity to study selections from the Vedas, texts on grammar, philosophy, poetry, poetics, etymology, etc. Along with four core courses, we offer option to choose one audit course on the following topics - Ancient Indian Sciences, Modern Sanskrit Literature, Pali, Prakrit, Inscriptions and Manuscriptology, Buddhist Sanskrit Literature, Ancient Education Tradition, and Natyashastra and Musicology. Students get opportunity to explore less known fields in Sanskrit by studying some of these audit courses.
+ 
+    In the second year, students have to choose any one subject as specialization, either Darshana (Indian Philosophy) or Vyakarana (Grammar).
