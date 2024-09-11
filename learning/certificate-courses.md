@@ -214,3 +214,8 @@ sidebar_position: 2
     Students enrolling in these programmes will receive a set of five books from CSU. The course aims to develop proficiency in speaking, reading, and writing in Sanskrit, along with an understanding of shlokas, songs, stotras, and scientific and literary concepts in Sanskrit.
 
     The admission fee for the course is Rs 1,200, with an additional Rs 300 exam fee to be paid at the time of the examination. Class schedules will be announced by IIT-Hyderabad, based on learners' convenience.
+
+1. ### [Somaiya Vidhyavihar University](https://kjsids.somaiya.edu) - Mumbai K J Somaiya Institute of Dharma Studies
+
+    Minor In Sanskrit Language. Eligibility: HSC or equivalent, Course Duration-2 Years, Course Type - Minor Degree, Mode of Study - Part Time
+      
