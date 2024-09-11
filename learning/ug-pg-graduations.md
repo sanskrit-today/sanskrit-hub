@@ -354,3 +354,13 @@ of reviving Sanskrit as a language of communication.
     In the first year, students pursue the study of Sanskrit at a higher level of proficiency and are introduced to various genres of literature. Students get opportunity to study selections from the Vedas, texts on grammar, philosophy, poetry, poetics, etymology, etc. Along with four core courses, we offer option to choose one audit course on the following topics - Ancient Indian Sciences, Modern Sanskrit Literature, Pali, Prakrit, Inscriptions and Manuscriptology, Buddhist Sanskrit Literature, Ancient Education Tradition, and Natyashastra and Musicology. Students get opportunity to explore less known fields in Sanskrit by studying some of these audit courses.
  
     In the second year, students have to choose any one subject as specialization, either Darshana (Indian Philosophy) or Vyakarana (Grammar).
+
+1. ### Somaiya Vidyavihar University - Mumbai, K J Somaiya Institute of Dharma Studies (https://kjsids.somaiya.edu)
+
+   * Diploma in Sanskrit: Language and Literature (This programme will be conducted in online mode.)
+   * Duration - 1 Tear, Course Type - Diploma, Mode of Study - Part Time
+   * Eligibility:  HSC or equivalent. Prior Knowledge of Sanskrit language not required.
+   * Sanskrit, one of the classical languages opens the doors to the history of rich heritage our ancestors preserved for us as well as it helps to explore the new dimensions of the known sciences. The grammatical precision of Sanskrit, the depth of the philosophy, beauty and metrical rhythm of the poetry, and the rich tradition of the scientific literature in Sanskrit makes it one of the significant languages studied globally.
+
+The course aims at giving the students the opportunity to explore the beauty of Sanskrit language through the knowledge of the basic structure of grammar, overview of the classical Sanskrit literature and some part of the textual extracts to be read and understood. The course also intends to help the students to grasp the conversational Sanskrit. It can generate the interest in students for the further studies in Sanskrit.
+
