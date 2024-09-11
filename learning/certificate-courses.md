@@ -215,6 +215,7 @@ sidebar_position: 2
 
     The admission fee for the course is Rs 1,200, with an additional Rs 300 exam fee to be paid at the time of the examination. Class schedules will be announced by IIT-Hyderabad, based on learners' convenience.
 
-1. ### Somaiya Vidhyavihar University - Mumbai K J Somaiya Institute of Dharma Studies (https://kjsids.somaiya.edu)
-   * Minor In Sanskrit Language. Eligibility: HSC or equivalent, Course Duration-2 Years, Course Type - Minor Degree, Mode of Study - Part Time
+1. ### [Somaiya Vidhyavihar University](https://kjsids.somaiya.edu) - Mumbai K J Somaiya Institute of Dharma Studies
+
+    Minor In Sanskrit Language. Eligibility: HSC or equivalent, Course Duration-2 Years, Course Type - Minor Degree, Mode of Study - Part Time
       
