@@ -335,7 +335,7 @@ of reviving Sanskrit as a language of communication.
     * 	B.A (Elective Sanskrit)
     * 	Computational Sanskrit
 
- 1. ### [Somaiya Vidyavihar University](https://kjsids.somaiya.edu) - Mumbai, K J Somaiya Institute of Dharma Studies (https://kjsids.somaiya.edu)
+1. ### [Somaiya Vidyavihar University](https://kjsids.somaiya.edu) - Mumbai, K J Somaiya Institute of Dharma Studies (https://kjsids.somaiya.edu)
 
     * **Diploma in Paninian Grammar** (This programme will be conducted in online mode.)
 
