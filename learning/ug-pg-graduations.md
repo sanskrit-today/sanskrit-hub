@@ -337,10 +337,20 @@ of reviving Sanskrit as a language of communication.
 
  1. ### [Somaiya Vidyavihar University](https://kjsids.somaiya.edu) - Mumbai, K J Somaiya Institute of Dharma Studies (https://kjsids.somaiya.edu)
 
-    * Diploma in Paninian Grammar (This programme will be conducted in online mode.)
+    * **Diploma in Paninian Grammar** (This programme will be conducted in online mode.)
 
     Course Duration - 1 Year, Course Type - Diploma, Mode of Study - Part Time
 
     The Ashtadhyayi, a text of Sanskrit grammar, was written by Panini more than 2500 years ago. This work consists of approximately 4000 Sutras which formalize every aspect of Sanskrit grammar, including but not limited to phonetics, euphony, derivation, inflexion, syntax and semantics.
 
     This text remains an unparalleled treatise of grammar in time as well as across languages and has been a subject of study of every linguistic scholar. In order to study Ashtadhyayi under modules that target specific topics, grammarians have suggested a change in the order of Sutras. The primary book that is based on such a targeted operation-based approach is the Vaiyakarana-Siddhanta-kaumudi of Bhattoji Dikshit. It is under this tradition that an abridged work titled Laghu-siddhanta-kaumudi was composed by Varadaraja. This work, since it includes a lesser number of Sutras, now acts as a primer to the Ashtadhyayi, and is recommended for students who have no prior understanding or study of technical Sanskrit grammar.
+
+    * **M.A. Sanskrit**, (This programme will be conducted in offline mode.)
+
+    Duration - 2 Years, Course Type - Masters, Mode of Study - Full Time
+    
+    This programme is designed for those who have basic knowledge of Sanskrit language and who want to pursue higher studies in Sanskrit.
+
+    In the first year, students pursue the study of Sanskrit at a higher level of proficiency and are introduced to various genres of literature. Students get opportunity to study selections from the Vedas, texts on grammar, philosophy, poetry, poetics, etymology, etc. Along with four core courses, we offer option to choose one audit course on the following topics - Ancient Indian Sciences, Modern Sanskrit Literature, Pali, Prakrit, Inscriptions and Manuscriptology, Buddhist Sanskrit Literature, Ancient Education Tradition, and Natyashastra and Musicology. Students get opportunity to explore less known fields in Sanskrit by studying some of these audit courses.
+ 
+    In the second year, students have to choose any one subject as specialization, either Darshana (Indian Philosophy) or Vyakarana (Grammar).
