@@ -218,4 +218,9 @@ sidebar_position: 2
 1. ### [Somaiya Vidhyavihar University](https://kjsids.somaiya.edu) - Mumbai K J Somaiya Institute of Dharma Studies
 
     Minor In Sanskrit Language. Eligibility: HSC or equivalent, Course Duration-2 Years, Course Type - Minor Degree, Mode of Study - Part Time
+
+1. ### INDIRA GANDHI NATIONAL OPEN UNIVERSITY - IGNOU (http://www.ignou.ac.in/ignou/aboutignou/school/soh/programmes/detail/726/2)
+    * Programmes : Certificate in (Communicative Sanskrit) Saral Sanskrit Bodh (CSSB)
+    * Course Duration : Minimum Duration: 6 Months, Maximum Duration: 2 Years
+    * Email : soh@ignou.ac.in
       
