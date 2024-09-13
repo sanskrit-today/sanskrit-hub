@@ -354,3 +354,9 @@ of reviving Sanskrit as a language of communication.
     In the first year, students pursue the study of Sanskrit at a higher level of proficiency and are introduced to various genres of literature. Students get opportunity to study selections from the Vedas, texts on grammar, philosophy, poetry, poetics, etymology, etc. Along with four core courses, we offer option to choose one audit course on the following topics - Ancient Indian Sciences, Modern Sanskrit Literature, Pali, Prakrit, Inscriptions and Manuscriptology, Buddhist Sanskrit Literature, Ancient Education Tradition, and Natyashastra and Musicology. Students get opportunity to explore less known fields in Sanskrit by studying some of these audit courses.
  
     In the second year, students have to choose any one subject as specialization, either Darshana (Indian Philosophy) or Vyakarana (Grammar).
+
+1. ### INDIRA GANDHI NATIONAL OPEN UNIVERSITY - IGNOU (http://www.ignou.ac.in/ignou/aboutignou/school/soh/programmes/detail/707/2)
+   * Master of Arts (Sanskrit) (MSK) Minimum Duration: 2 Years, Maximum Duration: 4 Years
+   * Eligibility : Bachelor's Degree or a higher degree from a recognised University.
+   * Highlight : This Programme exposes learners to a wide range of Sanskrit Language & literature. It consists of courses worth 64 credits.
+   * Email : soh@ignou.ac.in
