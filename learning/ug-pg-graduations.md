@@ -354,3 +354,61 @@ of reviving Sanskrit as a language of communication.
     In the first year, students pursue the study of Sanskrit at a higher level of proficiency and are introduced to various genres of literature. Students get opportunity to study selections from the Vedas, texts on grammar, philosophy, poetry, poetics, etymology, etc. Along with four core courses, we offer option to choose one audit course on the following topics - Ancient Indian Sciences, Modern Sanskrit Literature, Pali, Prakrit, Inscriptions and Manuscriptology, Buddhist Sanskrit Literature, Ancient Education Tradition, and Natyashastra and Musicology. Students get opportunity to explore less known fields in Sanskrit by studying some of these audit courses.
  
     In the second year, students have to choose any one subject as specialization, either Darshana (Indian Philosophy) or Vyakarana (Grammar).
+
+
+
+1. ### Chinmaya Vishwa Vidyapeeth (CVV)
+ 
+    It is the only deemed to be university (recognised by UGC) with immense potential in the 'de novo' category in Kerala. 
+
+    Established in 2017, its core mission is to blend the ancient and time-tested wisdom of India with present-day knowledge fields. With campuses in Kerala and Maharashtra, CVV offers a vibrant student life through holistic development that is guided by its core values. It offers programmes with over 20 options at the UG, PG, integrated, and doctoral levels that
+align with blending traditional and contemporary knowledge in the streams of engineering, commerce, management, psychology, Sanskrit, and education (English and Mathematics). All its programmes are approved by the respective bodies such as AICTE and NCTE.
+
+    The University is also an active member of the Association of Indian Universities (AIU).
+
+    CVV’s well-equipped classrooms and cutting-edge lab facilities are meticulously designed to ensure a seamless integration of theoretical knowledge and practical application. CVV provides a nurturing environment where students can explore, experiment, and push boundaries. 
+
+    The majority of our faculty members hold Ph.D. qualifications, showcasing a high level of expertise.
+
+* Programme
+
+    Undergraduate / Post Graduate
+
+* M.A. Sanskrit
+
+    Duration: 2 years | 4 semesters
+
+* Eligibility:
+
+    A minimum of 65% in the Bachelor’s degree from any reputed college/university with basic knowledge of Sanskrit and IKT
+
+* Why M.A Sanskrit at CVV?T
+
+### Highlights of the Programme
+
+   The M.A. Sanskrit programme is an innovative offering that aims to enhance traditional postgraduate courses in Sanskrit and Sanskrit Studies. It combines traditional śāstric topics with contemporary subjects to meet the needs of students today.
+    
+   Students enrolled in the programme will benefit from the expertise of young and enthusiastic scholars at CVV, who bring a fresh perspective and energy to the learning environment.
+    
+   The programme equips students with the ability to teach and explain śāstric topics in both Sanskrit and English, enhancing their career prospects and enabling effective communication with a wider audience.
+
+   A unique feature of the programme is the opportunity for internships in both India and abroad, providing students with valuable practical experience and exposure to diverse cultural and academic settings.
+
+   The M.A. Sanskrit programme at CVV priortises research-oriented teaching and learning, encouraging students to explore their interests, engage with original sources, and develop critical thinking skills.
+    
+   Students also have the chance to undertake research projects, contributing to the field of Sanskrit studies and gaining valuable research experience.
+
+   The M.A. Sanskrit programme provides the opportunity to explore and develop their personal passions in an informal manner along with academic studies. 
+
+### International Collaborations
+
+   Global Exposure and Internships
+
+   CVV’s global internship programme provides an exceptional chance for students and young professionals to acquire practical work experience in a diverse cultural and business environment. Through hands-on work assignments, mentorship, and networking opportunities, interns will gain a deep understanding of the local culture, while developing skills that are highly valued in today's global economy. CVV's global internship provides a chance to:
+
+   1. Experience a different work culture
+   1. Build a global network
+   1. Improve language skills 
+   1. Develop cross-cultural skills
+   1. Reflection and evaluation.
+
