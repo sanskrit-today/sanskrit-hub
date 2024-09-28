@@ -12,6 +12,7 @@ sidebar_position: 6
 * [Saṃskṛta Hitāya - @sanskrit_hitaay](https://x.com/sanskrit_hitaay)
 
 ## Individuals
+* [Sanskrit Today](https://x.com/sanskrit_today)
 * [पतङ्गः - @patangaha](https://x.com/patangaha)
 * [प्वालः । pvaal - @pvaal2](https://x.com/pvaal2)
 * [Kushagra Aniket - @KushagraAniket](https://x.com/KushagraAniket)
