@@ -59,3 +59,9 @@ sidebar_position: 10
 1. ### [Blog](https://learn-samskritam.blogspot.com/p/homepage.html) - for SB learners
 
 1. ### [स्वयंप्रभा](https://swayamprabha.gov.in/index.php/search)
+
+1. ### {शब्दरूपं, धातुरुपं च) (https://barun.dev/)
+
+   **This is a Sanskrit learning website. It provides 2599 sanskrit Shabad forms and also provides 1685 Sanskrit Dhatu forms.**
+   **In order to get access 2599 संस्कृत शब्दरुपम्, please visit to https://barun.dev/samskrit-shabdroop  and to get access 1685 संस्कृत धातुरुपम् https://barun.dev/samskrit-dhaturoop.** 
+
