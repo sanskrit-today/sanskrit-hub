@@ -354,3 +354,19 @@ of reviving Sanskrit as a language of communication.
     In the first year, students pursue the study of Sanskrit at a higher level of proficiency and are introduced to various genres of literature. Students get opportunity to study selections from the Vedas, texts on grammar, philosophy, poetry, poetics, etymology, etc. Along with four core courses, we offer option to choose one audit course on the following topics - Ancient Indian Sciences, Modern Sanskrit Literature, Pali, Prakrit, Inscriptions and Manuscriptology, Buddhist Sanskrit Literature, Ancient Education Tradition, and Natyashastra and Musicology. Students get opportunity to explore less known fields in Sanskrit by studying some of these audit courses.
  
     In the second year, students have to choose any one subject as specialization, either Darshana (Indian Philosophy) or Vyakarana (Grammar).
+
+1. ### [IGNOV](https://ignouadmission.samarth.edu.in/index.php/site/programmes)
+
+    IGNOV offers various Sanskrit programs as below.
+   
+    * [SSB : Certificate(Communicative Sanskrit)](https://ignouadmission.samarth.edu.in/index.php/site/programme-detail?id=db6fd120fb254ef14deb4b234922d7c8693a5124c670000aa892998cd095dd5f1649) - 6 Months
+    * [PGSKT : Post Graduate Diploma(Sanskrit Sahitya mein Vigyan)](https://ignouadmission.samarth.edu.in/index.php/site/programme-detail?id=eeb086cb76e42d693eeaf827a58217254ef59d6ba6a7b3439fa5a4a2f033d9731780) - 1 Year
+    * [BAFSK : Bachelor of Arts (Sanskrit)](https://ignouadmission.samarth.edu.in/index.php/site/programme-detail?id=f525d7912ba2ec9a7ac4035b40aee3216d796c35274a540d5d2245d232bc46fa1825) - 3 Years
+    * [BAASK : Bachelor of Arts(Applied Sanskrit)](https://ignouadmission.samarth.edu.in/index.php/site/programme-detail?id=55378940464cea9e46125ff0e844613301a23824fdc57899b1f4e9548f69c08a1775) - 3 Years
+    * [BASKH : Bachelor of Arts(Hons) Sanskrit](https://ignouadmission.samarth.edu.in/index.php/site/programme-detail?id=e4099275a711c871eb4eafc76adbf0f57c481ec939ed1b912006182b993fac2b1695) - 3 Years
+    * [MSK : Master of Arts(Sanskrit)](https://ignouadmission.samarth.edu.in/index.php/site/programme-detail?id=05e32134ac50bd7f2e9ab5cb8b152f7aa12c7675d1ec08cf4f57b6c2ee24c9911619)
+  
+    You may view full list of other (including non-sanskrit) programs [here](https://ignouadmission.samarth.edu.in/index.php/site/programmes). You may search for 'sanskrit' to view only sanskrit course.
+
+
+   
