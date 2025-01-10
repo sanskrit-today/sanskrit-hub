@@ -5,7 +5,7 @@ sidebar_position: 6
 # Whatsapp
 
 ## Samskrita Samvadah Groups
-1. ### [Main group](https://chat.whatsapp.com/HLeG1yYRUbk4Il2GuTLjKa)
+1. ### [संस्कृत संवादः](https://chat.whatsapp.com/HLeG1yYRUbk4Il2GuTLjKa)
 
 1. ### [Channel](https://whatsapp.com/channel/0029Va4kEk2GE56bqCSi4n3N)
 
@@ -14,3 +14,6 @@ sidebar_position: 6
 1. ### [वाग्गोष्ठी – Sanskrit Chats Only](https://chat.whatsapp.com/H6EvB6QJbfX83w77HBeDUU)
 
 1. ### [रामदूतः – Sanskrit News & Magazines](https://chat.whatsapp.com/KbaokpgB35p0tGwJma4iQ6)
+
+## Sanskrit Today Groups
+1. ### [Channel](https://www.whatsapp.com/channel/0029VaprLSH3WHTQ6xnJYe0z)
