@@ -26,7 +26,7 @@ sidebar_position: 2
 
 1. ### [संस्कृतवार्ता - Sanskrit Varta](https://sanskritvarta.in/)
 
-1. ### [आह्निकवार्तापत्रम् - Ahnika Varta Patram)(http://ahnikvartapatram.com/)
+1. ### [आह्निकवार्तापत्रम् - Ahnika Varta Patram](http://ahnikvartapatram.com/)
 
 1. ### [Newz Viewz](https://newzviewz.com/sanskrit) - updated irregularly
 
