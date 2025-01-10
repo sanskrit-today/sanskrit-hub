@@ -368,5 +368,10 @@ of reviving Sanskrit as a language of communication.
   
     You may view full list of other (including non-sanskrit) programs [here](https://ignouadmission.samarth.edu.in/index.php/site/programmes). You may search for 'sanskrit' to view only sanskrit course.
 
+    Online Courses
+
+    * [Master of Arts (Sanskrit) (MSKOL)](https://iop.ignouonline.ac.in/programme/p75)
+    * [Saral Sanskrit Bodh (सरल संस्कृत बोध) (SSBOL)](https://iop.ignouonline.ac.in/programme/p40)
+
 
    
