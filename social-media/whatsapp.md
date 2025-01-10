@@ -1,8 +1,9 @@
 ---
+sidebar_label: Whatsapp
 sidebar_position: 6
 ---
 
-# Whatsapp
+# Sanskrit Whatsapp Resources
 
 ## Samskrita Samvadah Groups
 1. ### [संस्कृत संवादः](https://chat.whatsapp.com/HLeG1yYRUbk4Il2GuTLjKa)
