@@ -355,9 +355,9 @@ of reviving Sanskrit as a language of communication.
  
     In the second year, students have to choose any one subject as specialization, either Darshana (Indian Philosophy) or Vyakarana (Grammar).
 
-1. ### [IGNOV](https://ignouadmission.samarth.edu.in/index.php/site/programmes)
+1. ### [IGNOU](https://ignouadmission.samarth.edu.in/index.php/site/programmes)
 
-    IGNOV offers various Sanskrit programs as below.
+    IGNOU offers various Sanskrit programs as below.
    
     * [SSB : Certificate(Communicative Sanskrit)](https://ignouadmission.samarth.edu.in/index.php/site/programme-detail?id=db6fd120fb254ef14deb4b234922d7c8693a5124c670000aa892998cd095dd5f1649) - 6 Months
     * [PGSKT : Post Graduate Diploma(Sanskrit Sahitya mein Vigyan)](https://ignouadmission.samarth.edu.in/index.php/site/programme-detail?id=eeb086cb76e42d693eeaf827a58217254ef59d6ba6a7b3439fa5a4a2f033d9731780) - 1 Year
