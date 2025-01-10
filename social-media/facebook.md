@@ -9,12 +9,12 @@ sidebar_position: 3
 
    Why to join संस्कृत संवादः Facebook page among so many others.
 
-  * Very Active
-  * Well administrated
-  * Daily Vakyabhyas 
-  * Daily Sanskrit jokes
-  * Regular Sanskrit class information
-  * Have many Subsidiaries
-  * No ads
+   * Very Active
+   * Well administrated
+   * Daily Vakyabhyas 
+   * Daily Sanskrit jokes
+   * Regular Sanskrit class information
+   * Have many Subsidiaries
+   * No ads
 
 1. ### [Sanskrit Memes](https://www.facebook.com/sanskritmemepage/)
