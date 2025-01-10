@@ -14,7 +14,7 @@ sidebar_position: 1
     
     Aksharamukha is a powerful online tool that seamlessly converts text between various writing systems, including Indic scripts (like Devanagari, Bengali, Tamil), Semitic scripts (like Arabic, Hebrew, etc..), and more.
 
-1. ### https://www.lexilogos.com/keyboard/sanskrit_devanagari.htm
+1. ### [Lexilogos Sanskrit Keyboard](https://www.lexilogos.com/keyboard/sanskrit_devanagari.htm)
 
     This convenient online tool allows you to type the Devanagari script directly in your web browser without the need to install any additional software or keyboards. Simply click on the virtual Devanagari keyboard buttons to input the desired characters. It's a user-friendly and accessible solution for those who want to type Devanagari without the hassle of setting up specialized input methods.
 
