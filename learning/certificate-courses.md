@@ -218,4 +218,13 @@ sidebar_position: 2
 1. ### [Somaiya Vidhyavihar University](https://kjsids.somaiya.edu) - Mumbai K J Somaiya Institute of Dharma Studies
 
     Minor In Sanskrit Language. Eligibility: HSC or equivalent, Course Duration-2 Years, Course Type - Minor Degree, Mode of Study - Part Time
+
+1. ### [Sri Ranveer Sanskrit Vidyalaya](https://www.bhu.ac.in/Site/Page/1_3361_6623_Sri-Ranveer-Sanskrit-Vidyalaya-Academic-Programme)
+
+    Courses offered
+   
+    * Primary (class 1 to 5) - Syllabus according to NCERT Pattern
+    * Prathma Pratham, Pratham Dwitiya, Prathma Tritiya - Syllabus prepared by Faculty of S.V.D.V., B.H.U.
+    * Praveshika Pratham ,Praveshika Dwitiya - Syllabus prepared by Faculty of S.V.D.V., B.H.U.
+    * Madhyama Pratham, Madhyama Dwitiya - Syllabus prepared by Faculty of S.V.D.V., B.H.U.
       
