@@ -1,4 +1,14 @@
----
+### [Sajal Sandesh (सज्जल-सन्देशः)](https://www.sajalsandesh.in/)
+
+Sajal Sandesh is a premier Sanskrit newspaper based in New Delhi, established on Akshay Tritiya in 2013. The publication was founded by a group of enthusiasts with the mission of making Sanskrit a common man’s language and imparting "Sajal" (pure) messages and values to society.
+
+The newspaper is widely recognized for its commitment to **Vyākaraṇa Nisht** (grammatically pure) Sanskrit, ensuring that all news—ranging from current affairs to cultural insights—is published with linguistic precision. It serves as a vital resource for scholars, students, and university libraries across India.
+
+Under the leadership of its editorial team, Sajal Sandesh continues to bridge the gap between ancient wisdom and modern journalism, providing a platform for the revival of Sanskrit in the contemporary digital and print landscape.
+
+* **Managing Editor:** Deven S. Khatri
+* **Key Focus:** Current Affairs, Vedic Wisdom, and Sanskrit Education.
+* **Official Website:** [sajalsandesh.in](https://www.sajalsandesh.in/)---
 sidebar_label: Newspapers
 sidebar_position: 2
 ---
