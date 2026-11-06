@@ -33,6 +33,10 @@ sidebar_position: 10
 
 1. ### [Vedic Scriptures](http://vedicscripture.com/)
 
+1. ### [Mantra Vijayam](https://mantravijayam.com/english)
+
+    A free website of Sanskrit stotras, mantras, bhajans and aartis. Each text is given in English, Hindi, Telugu and Kannada along with its meaning, so a reader can follow what is being recited. The texts are typed by hand and proofread against printed editions. The stotra pages allow the text size to be increased or decreased, and on a phone the text can scroll by itself at reading pace. The mantra pages include audio recordings for pronunciation.
+
 1. ### [World Sanskrit](https://worldsanskrit.net/)
 
 1. ### [Mahabharata](https://mahabharata.shreevatsa.net/)
